@@ -78,9 +78,8 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [Subtle Data,](https://vimeo.com/72246588) Stefanie Posavec speaking at the 2013 Eyeo Festival
 * [How I Learned to Love Data Visualization (Again),](https://vimeo.com/159297152) Jon Schwabish speaking at the 2015 Visualized Conference
 
-
-
 September 3rd – Week 1. The lay of the land & introductions
+
 **Assignment**
 * **Data Sketches:** Visualize a data set in at least three ways. Choose to work with a different visual element, drawing inspiration from gestalt principles.
 * Three students prepare to present the readings for next week: 
@@ -89,6 +88,7 @@ September 3rd – Week 1. The lay of the land & introductions
   * [DataViz - The UnEmpathetic Art,](https://responsibledata.io/dataviz-the-unempathetic-art/) Mushon Zer-Aviv
 
 September 10th – Week 2. Topic Survey & technical overview (data translation)
+
 **Assignment**
 * **Data (Self)Portrait:** Create a self-portrait or portrait of someone else. The portrait must be derived from a data set, or use data as a material.
 * Due Week 4, September 24th. Documentation should be posted and a link emailed before class begins
@@ -98,6 +98,7 @@ September 10th – Week 2. Topic Survey & technical overview (data translation)
   * [A Concise Taxonomy for Describing Data as an Art Material,](http://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414) Julie Freeman, Geraint Wiggins, Gavin Starks and Mark Sandler
 
 September 17th – Week 3. Discussion of readings & technical workshop (ES6 Intro)
+
 **Assignment**
 * Develop Data (Self)Portrait Project
 
@@ -111,18 +112,18 @@ September 24th - Week 4. Guest Speaker TBD & Project presentations
 * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
 * [Abundant Images and the Collective Sublime,](http://circulationexchange.org/articles/abundantimages.html) Kate Palmer Albers
 
+
+October 1st – Week 5. Topic survey & technical workshop (RiTA)
+
 **Assignment**
 * **Archival Annotation:** Using an archive of your choosing, create a piece that calls attention to the underlying logic behind the archive
 * Due Week 7, October 22nd. Documentation should be posted and a link emailed before class begins
-
-
-October 1st – Week 5. Topic survey & technical workshop (RiTA)
-**Assignment**
 * Two students prepare to present the readings for next week:
   * [Consider the Boolean,](https://source.opennews.org/articles/consider-boolean) Jacob Harris
   * ["facts and FACTS": Abolitionists’ Database,]() Ellen Gruber Garvey
 
 October 8th – Week 6. Discussion of readings & overview of other resources (puppeteer.js)
+
 **Assignment**
 * Two students prepare to present the readings for next week:
   * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
@@ -141,6 +142,7 @@ October 22nd – Week 7. Guest Speaker TBD & Project presentations
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
 October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Data)
+
 **Assignment**
 * **Spatial Data Practice:** Explore the relationship between landscape, data and publics by intervening in public space with data OR representing spatial data through mapping or visualization.
 * Due Week 10, November 12th. Documentation should be posted and a link emailed before class begins
@@ -150,6 +152,7 @@ October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
   * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
 November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js)
+
 **Assignment**
 * Two students prepare to present the readings for next week:
   * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
@@ -167,6 +170,7 @@ November 12th – Week 10. Guest Speaker TBD & Project presentations
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
 November 19th – Week 11. Topic survey & overview of the landscape
+
 **Assignment**
 * **Data Critique:** Critique an aspect of data culture
 * Due Week 14, December 10th. Documentation should be posted and a link emailed before class begins
@@ -176,6 +180,7 @@ November 19th – Week 11. Topic survey & overview of the landscape
   * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 
 November 26th – Week 12. Discussion of readings & Color + Data Visualization & D3
+
 **Assignment**
 * Three students prepare to present the readings for next week:
   * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
