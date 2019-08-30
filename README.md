@@ -82,7 +82,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 September 3rd – Week 1. The lay of the land & introductions
 **Assignment**
-* Visualize a data set in at least three ways. Choose to work with a different visual element, drawing inspiration from gestalt principles.
+* **Data Sketches:** Visualize a data set in at least three ways. Choose to work with a different visual element, drawing inspiration from gestalt principles.
 * Three students prepare to present the readings for next week: 
   * [Raw Data is an Oxymoron Introduction](http://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf) Lisa Gitelman and Virginia Jackson 
   * [What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization) Catherine D'Ignazio
@@ -90,7 +90,7 @@ September 3rd – Week 1. The lay of the land & introductions
 
 September 10th – Week 2. Topic Survey & technical overview (data translation)
 **Assignment**
-* Data (Self)Portrait: Create a self-portrait or portrait of someone else. The portrait must be derived from a data set, or use data as a material.
+* **Data (Self)Portrait:** Create a self-portrait or portrait of someone else. The portrait must be derived from a data set, or use data as a material.
 * Due Week 4, September 24th. Documentation should be posted and a link emailed before class begins
 
 * Two students prepare to present the readings for next week: 
@@ -112,7 +112,7 @@ September 24th - Week 4. Guest Speaker TBD & Project presentations
 * [Abundant Images and the Collective Sublime,](http://circulationexchange.org/articles/abundantimages.html) Kate Palmer Albers
 
 **Assignment**
-* Archival Annotation: Using an archive of your choosing, create a piece that calls attention to the underlying logic behind the archive
+* **Archival Annotation:** Using an archive of your choosing, create a piece that calls attention to the underlying logic behind the archive
 * Due Week 7, October 22nd. Documentation should be posted and a link emailed before class begins
 
 
@@ -142,18 +142,18 @@ October 22nd – Week 7. Guest Speaker TBD & Project presentations
 
 October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Data)
 **Assignment**
-* Spatial Data Practice: Explore the relationship between landscape, data and publics by intervening in public space with data OR representing spatial data through mapping or visualization.
+* **Spatial Data Practice:** Explore the relationship between landscape, data and publics by intervening in public space with data OR representing spatial data through mapping or visualization.
 * Due Week 10, November 12th. Documentation should be posted and a link emailed before class begins
 
 * Two students prepare to present the readings for next week:
-* [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
-* [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
+  * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
+  * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
 November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js)
 **Assignment**
 * Two students prepare to present the readings for next week:
-* [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
-* [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
+  * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
+  * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 
 November 12th – Week 10. Guest Speaker TBD & Project presentations
 
@@ -168,19 +168,19 @@ November 12th – Week 10. Guest Speaker TBD & Project presentations
 
 November 19th – Week 11. Topic survey & overview of the landscape
 **Assignment**
-* Data Critique: Critique an aspect of data culture
+* **Data Critique:** Critique an aspect of data culture
 * Due Week 14, December 10th. Documentation should be posted and a link emailed before class begins
 
 * Two students prepare to present the readings for next week:
-* [Critical Questions for Big Data,](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf) danah boyd & Kate Crawford
-* [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
+  * [Critical Questions for Big Data,](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf) danah boyd & Kate Crawford
+  * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 
 November 26th – Week 12. Discussion of readings & Color + Data Visualization & D3
 **Assignment**
 * Three students prepare to present the readings for next week:
-* [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
-* [Dataveillance and Countervailance,]() Rita Raley
-* [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
+  * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
+  * [Dataveillance and Countervailance,]() Rita Raley
+  * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
 December 3rd – Week 13. Technical workshop (THREE.js / Unity)
 
