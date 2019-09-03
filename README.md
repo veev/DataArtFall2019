@@ -78,7 +78,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [Subtle Data,](https://vimeo.com/72246588) Stefanie Posavec speaking at the 2013 Eyeo Festival
 * [How I Learned to Love Data Visualization (Again),](https://vimeo.com/159297152) Jon Schwabish speaking at the 2015 Visualized Conference
 
-September 3rd – Week 1. The lay of the land & introductions
+September 3rd – Week 1. The lay of the land & introductions - [slides](https://drive.google.com/open?id=1NpRVMIoIRud2bljle46WN-NpNTMKJjbG) shown in class
 
 **Assignment**
 * **Data Sketches:** Visualize a data set in at least three ways. Choose to work with a different visual element, drawing inspiration from gestalt principles.
