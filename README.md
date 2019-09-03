@@ -182,8 +182,7 @@ November 19th – Week 11. Topic survey & overview of the landscape
 November 26th – Week 12. Discussion of readings & Color + Data Visualization & D3
 
 **Assignment**
-* Three students prepare to present the readings for next week:
-  * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
+* Two students prepare to present the readings for next week:
   * [Dataveillance and Countervailance,]() Rita Raley
   * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
