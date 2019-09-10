@@ -87,7 +87,7 @@ September 3rd – Week 1. The lay of the land & introductions - [slides](https:/
   * [What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization) Catherine D'Ignazio
   * [DataViz - The UnEmpathetic Art,](https://responsibledata.io/dataviz-the-unempathetic-art/) Mushon Zer-Aviv
 
-September 10th – Week 2. Topic Survey & technical overview (data translation)
+September 10th – Week 2. Topic Survey & technical overview (data translation) - [slides shown in class](https://drive.google.com/file/d/1YxpfEdU-dMjmpmlKeR16RZlQBqT80nSj/view?usp=sharing)
 
 **Assignment**
 * **Data (Self)Portrait:** Create a self-portrait or portrait of someone else. The portrait must be derived from a data set, or use data as a material.
