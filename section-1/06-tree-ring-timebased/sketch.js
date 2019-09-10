@@ -3,7 +3,6 @@ let button;
 let treerings = [];
 let yearIndex = 0;
 isPlaying = false;
-let year;
 let interval;
 
 function preload() {
@@ -49,7 +48,7 @@ function draw() {
   // create some text to show which year in the data we are at
   textSize(32);
   fill(255, 255, 255);
-  text(rings.getRow(yearIndex).get('year'), 20, 100);
+  if (yearIndex < rings.getRowCount()) text(rings.getRow(yearIndex).get('year'), 20, 100);
 
   // translate to the middle of the canvas to draw
   translate(width/2,height/2);
@@ -77,12 +76,14 @@ function handlePlayback() {
 }
 
 function togglePlaystate() {
+  // change isPlaying boolean to be the opposite of what it was (false --> true, true --> false)
   isPlaying = !isPlaying;
   console.log('isPlaying is', isPlaying);
   handleButtonText();
 }
 
 function handleButtonText() {
+  // just handle updating the button text based on the isPlaying boolean
   if (isPlaying) {
     button.html('Pause');
   } else {
