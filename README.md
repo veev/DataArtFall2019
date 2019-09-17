@@ -97,7 +97,7 @@ September 10th – Week 2. Topic Survey & technical overview (data translation) 
   * [Picturing the Self in the Age of Data,](http://proxy.library.nyu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=asu&AN=96975438&site=ehost-live) Dan Weiskopf
   * [A Concise Taxonomy for Describing Data as an Art Material,](http://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414) Julie Freeman, Geraint Wiggins, Gavin Starks and Mark Sandler
 
-September 17th – Week 3. Discussion of readings & technical workshop (ES6 Intro)
+September 17th – Week 3. Discussion of readings & technical workshop (Data Transformation and Analysis Intro)
 
 **Assignment**
 * Develop Data (Self)Portrait Project
