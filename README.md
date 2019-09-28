@@ -120,7 +120,7 @@ October 1st – Week 5. Topic survey & technical workshop (RiTA)
 * Due Week 7, October 22nd. Documentation should be posted and a link emailed before class begins
 * Two students prepare to present the readings for next week:
   * [Consider the Boolean,](https://source.opennews.org/articles/consider-boolean) Jacob Harris
-  * ["facts and FACTS": Abolitionists’ Database,](https://github.com/veev/DataArtFall2019/readings/Garvey_facts_and_FACTS_AbolitionistsDatabase.pdf) Ellen Gruber Garvey
+  * ["facts and FACTS": Abolitionists’ Database,](https://github.com/veev/DataArtFall2019/blob/master/readings/Garvey_facts_and_FACTS_AbolitionistsDatabase.pdf) Ellen Gruber Garvey
 
 October 8th – Week 6. Discussion of readings & overview of other resources (puppeteer.js)
 
@@ -166,7 +166,7 @@ November 12th – Week 10. Guest Speaker TBD & Project presentations
 * [Critical Questions for Big Data,](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf) danah boyd & Kate Crawford
 * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
-* [Dataveillance and Countervailance,](https://github.com/veev/DataArtFall2019/readings/Raley_Dataveillance_and_Countervailance.pdf) Rita Raley
+* [Dataveillance and Countervailance,](https://github.com/veev/DataArtFall2019/blob/master/readings/Raley_Dataveillance_and_Countervailance.pdf) Rita Raley
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
 November 19th – Week 11. Topic survey & overview of the landscape
