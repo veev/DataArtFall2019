@@ -1,11 +1,11 @@
-const fs = require('fs')
+const fs = require('fs');
 
 // use file system (fs) to read the text file
 const text = fs.readFileSync('../data/time-machine.txt', 'utf-8')
-// console.log(text)
+// console.log(text.length)
 
 // split the text on the *** which marks the beginning and end of the book
-const txtArray = text.split('***')
+const txtArray = text.split("***")
 // console.log(txtArray.length)
 
 // print out the lengths of each portion that was split at ***
@@ -23,4 +23,4 @@ fileInfo.title = 'The Time Machine'
 fileInfo.text = book
 
 // use file system (fs) to write out a new JSON file - stringify since we made a JSON object
-fs.writeFileSync('data/time-machine-clean.json', JSON.stringify(fileInfo), 'utf-8')
+fs.writeFileSync('../data/time-machine-clean.json', JSON.stringify(fileInfo), 'utf-8')
