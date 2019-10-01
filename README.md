@@ -102,7 +102,7 @@ September 17th – Week 3. Discussion of readings & technical workshop (Data Tra
 **Assignment**
 * Develop Data (Self)Portrait Project
 
-September 24th - Week 4. Guest Speaker TBD & Project presentations
+September 24th - Week 4. Guest Speaker Scott Kildall & Project presentations
 
 ### Text, Archives & Memory Stores
 
@@ -113,7 +113,7 @@ September 24th - Week 4. Guest Speaker TBD & Project presentations
 * [Abundant Images and the Collective Sublime,](http://circulationexchange.org/articles/abundantimages.html) Kate Palmer Albers
 
 
-October 1st – Week 5. Topic survey & technical workshop (RiTA)
+October 1st – Week 5. Topic survey & technical workshop (RiTA) - [slides shown in class](https://drive.google.com/open?id=1LCXJCgXhX0heUj35XBH9nhyYC_62FYkc)
 
 **Assignment**
 * **Archival Annotation:** Using an archive of your choosing, create a piece that calls attention to the underlying logic behind the archive

@@ -52,7 +52,7 @@ function searchByPOS(array, posPattern) {
 
 	// joing the array of parts of speech so we have a string to match against
 	const posString = join(pos, ' ')
-	// console.log(posString)
+	console.log(posString)
 
 	// go through the sentences and see which have the same part of speech pattern
 	const posMatches = array.filter((line, index) => {

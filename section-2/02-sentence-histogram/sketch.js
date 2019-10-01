@@ -9,9 +9,9 @@ function loadText(file) {
 	// use regex to find the sentences withtin the text, search for punctuation marks like . ! ?
 	const sentences = file.text.match(/[^\.!\?]+[\.!?]+/g)
 
-	console.log('the book is ' + sentences.length + 'sentences long')
+	console.log('the book is ' + sentences.length + ' sentences long')
 
-	// make an array for all the character lengths of the sentences
+	// // make an array for all the character lengths of the sentences
 	const sentencesLengths = sentences.map( sentence => {
 		const numChars = sentence.length
 		return numChars
@@ -26,8 +26,17 @@ function loadText(file) {
 		let x = 0
 		let y = 0
 		let w = map(sL, min(sentencesLengths), max(sentencesLengths), 2, width - 10)
+		
 		// color the line according to whether the word time appears in the sentence (red), if not blue
-		sentences[i].toLowerCase().indexOf('time') > 0 ? fill(255, 0, 0) : fill(0, 0, 255)
+		sentences[i].toLowerCase().indexOf('time') >= 0 ? fill(255, 0, 0) : fill(0, 0, 255)
+
+		// this is the same way of writing the turnary operator above but with if/else statements
+		// if (sentences[i].toLowerCase().indexOf('time') >= 0) {
+		// 	fill(255, 0, 0)
+		// } else {
+		// 	fill(0, 0, 255)
+		// }
+
 		noStroke()
 		rect(x, y + i, w, 1)
 	})
