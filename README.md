@@ -147,16 +147,13 @@ October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
 * **Spatial Data Practice:** Explore the relationship between landscape, data and publics by intervening in public space with data OR representing spatial data through mapping or visualization.
 * Due Week 10, November 12th. Documentation should be posted and a link emailed before class begins
 
-* Two students prepare to present the readings for next week:
+* Four students prepare to present the readings for next week:
   * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
   * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
-
-November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js)
-
-**Assignment**
-* Two students prepare to present the readings for next week:
   * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
   * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
+
+November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js)
 
 November 12th – Week 10. Guest Speaker TBD & Project presentations
 
