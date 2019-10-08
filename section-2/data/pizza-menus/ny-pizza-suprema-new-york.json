@@ -1,0 +1,446 @@
+{
+    "name": "NY Pizza Suprema",
+    "phone": "(212) 594-8939",
+    "restaurant_id": "ny-pizza-suprema-new-york",
+    "menu": [
+        {
+            "name": "2 Liter Bottled Soda",
+            "price": "$3.67"
+        },
+        {
+            "name": "NYC Round Cheese Pizza",
+            "description": "8 slices. Our famous signature pizza with a light delicious thin crust slightly charred, topped with our famous homemade tomato sauce and imported pecorino Romano cheese and finest grande mozzarella.",
+            "price": "$25.72"
+        },
+        {
+            "name": "Margarita Pizza",
+            "description": "A thin hand-tossed crust is topped with a fresh homemade pomodoro sauce. The fresh mozzarella is placed in between and sprinkled on top, is a generous layer of imported pecorino Romano cheese. Then post bake,the pie is finished off with a generous sprinkling of imported Parmesan cheese from Italy and a light drizzling of imported extra-virgin olive oil from Italy with a hand toss of fresh basil.",
+            "price": "$32.15"
+        },
+        {
+            "name": "White Pizza with Garlic",
+            "description": "No red sauce. A thin white slice topped with generous dollops of the finest whipped creamiest ricotta and finished with a sprinkling of imported pecorino Romano, fresh garlic and a drizzle of imported extra-virgin olive oil from Italy.",
+            "price": "$32.15"
+        },
+        {
+            "name": "New York Style Sicilian Pizza",
+            "description": "12 slices. A deep dish crust light and airy with our homemade cooked onion base sauce, sprinkled with imported pecorino Romano, fresh basil and imported extra-virgin olive oil from Italy covered with our finest grande mozzarella.",
+            "price": "$32.15"
+        },
+        {
+            "name": "Upside Down Pizza",
+            "description": "12 slices. Sauce lovers favorite. The finest grande mozzarella covers a light and airy deep dish square crust. The mozzarella is covered with our homemade cooked onion based sauce. Then finished with imported pecorino Romano cheese and imported extra-virgin olive oil from Italy with a tossing of fresh basil.",
+            "price": "$32.15"
+        },
+        {
+            "name": "Marinara Pizza",
+            "description": "12 slices. Delicious garlic based marinara sauce sprinkled with imported pecorino Romano cheese and finished with fresh basil.",
+            "price": "$25.72"
+        },
+        {
+            "name": "Grandma Pizza",
+            "description": "9 slices. On a thin crust pan baked is a fresh plum tomato sauce, imported pecorino Romano, fresh mozzarella. Post-baked, finished off with fresh basil, imported Parmesan cheese and imported extra-virgin olive oil from Italy.",
+            "price": "$34.90"
+        },
+        {
+            "name": "NYC Round Cheese Pizza Slice",
+            "description": "Our famous signature pizza with a light delicious thin crust slightly charred, topped with our famous homemade tomato sauce and imported pecorino Romano cheese and finest grande mozzarella.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Margarita Pizza Slice",
+            "description": "A thin hand-tossed crust is topped with a fresh homemade Pomodoro sauce. The fresh mozzarella is placed in between and sprinkled on top, is a generous layer of imported pecorino Romano cheese. Then post-bake, the pie is finished off with a generous sprinkling of imported Parmesan cheese from Italy and a light drizzling of imported extra-virgin olive oil from Italy with a hand toss of fresh basil.",
+            "price": "$5.00"
+        },
+        {
+            "name": "White Pizza with Garlic Slice",
+            "description": "No red sauce. A thin white slice topped with generous dollops of the finest whipped creamiest ricotta and finished with a sprinkling of imported pecorino Romano, fresh garlic and a drizzle of imported extra-virgin olive oil from Italy.",
+            "price": "$5.00"
+        },
+        {
+            "name": "New York Style Sicilian Pizza Slice",
+            "description": "A deep dish crust light and airy with our homemade cooked onion base sauce, sprinkled with imported pecorino Romano, fresh basil and imported extra-virgin olive oil from Italy covered with our finest grande mozzarella.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Upside Down Pizza Slice",
+            "description": "Sauce lovers favorite. The finest grande mozzarella covers a light and airy deep dish square crust. The mozzarella is covered with our homemade cooked onion based sauce. Then finished with imported pecorino Romano cheese and imported extra-virgin olive oil from Italy with a tossing of fresh basil.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Grandma Pizza Slice",
+            "description": "On a thin crust, pan baked is a fresh plum tomato sauce, imported Pecorino Romano, fresh mozzarella. Post-baked finished off with fresh basil, imported Parmesan cheese and imported extra-virgin olive oil from Italy.",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chicken Parmigiana Pizza",
+            "description": "Our famous round pie topped with lightly breaded white meat chicken cutlet, imported pecorino Romano cheese and the finest grande mozzarella cheese, finished off with fresh basil.",
+            "price": "$33.07"
+        },
+        {
+            "name": "Chicken Bacon Ranch Pizza",
+            "description": "Fresh white meat chicken cutlet, crispy bacon, fresh jalapenos, sauteed onions and our finest grande mozzarella, with a sprinkling of imported pecorino Romano on a thin crust finished off with a creamy ranch dressing.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Buffalo Chicken Pizza",
+            "description": "Our famous round pie topped off with a delicious tender white meat Buffalo chicken. Covered with a medium to spicy Buffalo chicken sauce.",
+            "price": "$33.07"
+        },
+        {
+            "name": "Suprema Pizza",
+            "description": "Our namesake round pie with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, topped with all the favorites: fine sweet Italian sausage, imported Italian pepperoni, sauteed slicedonions, fresh roasted red peppers and fresh mushrooms. Finished with fresh basil. No substitutions.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Meat Lover's Pizza",
+            "description": "Our round pie is topped off with Boar Heads ham, sweet Italian sausage, imported pepperoni and crushed Italian meatballs.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Hawaiian Pizza",
+            "description": "Our round pie topped with our homemade tomato sauce, finest grande mozzarella, fresh pineapples and Boar Head's ham and finished off with our Parmesan cheese imported from Italy.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Chicken Parmigiana and Bruschetta Pizza",
+            "description": "Chicken Parmesan pizza topped with diced fresh tomatoes, onions and fresh basil.",
+            "price": "$30.98"
+        },
+        {
+            "name": "Jalapeno Chicken Parmigiana Pizza",
+            "description": "The same great chicken Parmesan pizza topped with fresh sliced jalapenos and sauteed onions.",
+            "price": "$30.98"
+        },
+        {
+            "name": "Chicken and Broccoli Pizza",
+            "description": "Topped with lightly breaded Perdue white meat chicken cutlet and broccoli.",
+            "price": "$30.98"
+        },
+        {
+            "name": "Veggie Lover's Pizza",
+            "description": "Topped with spinach, broccoli, onions peppers and fresh mushrooms. Has cheese, no substitutions.",
+            "price": "$30.98"
+        },
+        {
+            "name": "Veggie Medley- A Vegan Friendly Pizza",
+            "description": "12 slices. On a light airy Sicilian crust, diced fresh tomatoes, black olives, onions and fresh mushrooms that are sauteed with fresh garlic in imported extra virgin olive oil. No cheese and no substitutions.",
+            "price": "$35.54"
+        },
+        {
+            "name": "Cheese Lover's Pizza",
+            "description": "With combination of the finest cheese, Grande mozzarella, fresh mozzarella, ricotta and Romano cheeses.",
+            "price": "$30.98"
+        },
+        {
+            "name": "White Eggplant Pizza",
+            "description": "White pie topped with lightly breaded eggplant cutlets. No sauce.",
+            "price": "$30.98"
+        },
+        {
+            "name": "1/2 and 1/2 Specialty Pizza",
+            "description": "Choice of 2 specialty pizzas on each half.",
+            "price": "$34.63"
+        },
+        {
+            "name": "Pepperoni Fra Diavolo Pizza",
+            "description": "We start off with a light and airy Sicilian style crust. Topped with our finest grande mozzarella. Our fresh homemade fra diavolo sauce and finished with our imported spicy pepperoni from Italy.",
+            "price": "$41.33"
+        },
+        {
+            "name": "Burrata Pizza",
+            "description": "Our signature pizza with our slightly charred light delicious thin crust, topped with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, imported Parmesan with dollops of burrata cheese, a touch of fresh basil and imported extra-virgin olive oil from Italy.",
+            "price": "$41.33"
+        },
+        {
+            "name": "Hot Honey Pizza",
+            "description": "The same great grandma pie topped with fresh mushrooms. Our round pie with light dollops of fresh ricotta, fresh mushrooms, our finest grande mozzarella. Post baked, finished with a hot pepper infused honey.",
+            "price": "$34.90"
+        },
+        {
+            "name": "Fig Pizza",
+            "description": "A round pie topped off with the finest grande mozzarella, creamy goat cheese, fig spread, premium bacon, imported pecorino Romano, fresh basil and imported extra-virgin olive oil from Italy.",
+            "price": "$41.33"
+        },
+        {
+            "name": "Chicken Parmigiana Pizza Slice",
+            "description": "Our famous round pie topped with lightly breaded white meat chicken cutlet, imported pecorino Romano cheese and the finest grande mozzarella cheese, finished off with fresh basil.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Chicken Bacon Ranch Pizza Slice",
+            "description": "Fresh white meat chicken cutlet, crispy bacon, fresh jalapenos, sauteed onions and our finest grande mozzarella, with a sprinkling of imported pecorino Romano on a thin crust finished off with a creamy ranch dressing.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Buffalo Chicken Pizza Slice",
+            "description": "Our famous round pie topped off with a delicious tender white meat Buffalo chicken. Covered with a medium to spicy Buffalo chicken sauce.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Suprema Pizza Slice",
+            "description": "Our namesake round pie with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, topped with all the favorites: fine sweet Italian sausage, imported Italian pepperoni, sauteed sliced onions, fresh roasted red peppers and fresh mushrooms. Finished with fresh basil. No substitutions.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Meat Lover's Pizza Slice",
+            "description": "Our round pie is topped off with Boar Heads ham, sweet Italian sausage, imported pepperoni and crushed Italian meatballs.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Hawaiian Pizza Slice",
+            "description": "Our round pie topped with our homemade tomato sauce, finest grande mozzarella, fresh pineapples and boar head's ham and finished off with our Parmesan cheese imported from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Pepperoni Fra Diavolo Pizza Slice",
+            "description": "We start off with a light and airy Sicilian style crust. Topped with our finest grande mozzarella. Our fresh homemade fra diavolo sauce and finished with our imported spicy pepperoni from Italy.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Burrata Pizza Slice",
+            "description": "Our signature pizza with our slightly charred light delicious thin crust, topped with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, imported Parmesan with dollops of burrata cheese, a touch of fresh basil and imported extra-virgin olive oil from Italy.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Hot Honey Pizza Slice",
+            "description": "The same great grandma pie topped with fresh mushrooms, Our round pie with light dollops of fresh ricotta, fresh mushrooms, our finest grande mozzarella. Post baked, finished with a hot pepper infused honey.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Fig Pizza Slice",
+            "description": "A round pie topped off with the finest grande mozzarella, creamy goat cheese, fig spread, premium bacon, imported Pecorino Romano, fresh basil and Imported extra-virgin olive oil from Italy.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Veggie Lover's Pizza",
+            "description": "Our round pie is topped with spinach, zucchini, eggplant, sliced onions, red peppers, fresh mushrooms, post-baked, finished off with imported pecorino Romano, imported Parmesan cheese and imported extra-virgin olive oil from Italy.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Veggie Medley - A Vegan Friendly Pizza",
+            "description": "12 slices. On a light airy Sicilian crust is our homemade onion cooked based sauce with diced tomatoes, black olives, sliced onions, and fresh sauteed garlic mushrooms. Finished off with imported extra-virgin olive oil and fresh basil. No cheese.",
+            "price": "$41.33"
+        },
+        {
+            "name": "Vegan Margarita Pizza",
+            "description": "An organic nut free, soy free, artisanal sunflower seed vegan \"cheese\" non-dairy pie. A thin crust topped with generous dollops off fresh plum tomato sauce. Finished off with imported extra-virgin olive oil from Italy, oregano and fresh basil.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Vegan Grandma Pizza",
+            "description": "An organic nut free, soy free, artisanal sunflower seed vegan \"cheese\" non-dairy pie. A thin square crust with fresh mushrooms, sauted sliced onions and roasted red peppers. Post baked, finished off with imported EVOO, oregano and fresh basil.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Vegan White Truffle with Spinach",
+            "description": "An organic nut free, soy free, artisanal vegan truffle ash brie \"cheese\" non-dairy pie. Topped with a secret creamy vegan sauce, vegan ash brie, sauteed onions and imported extra-virgin olive oil from Italy.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Creamy Potato Pizza",
+            "description": "A round pie topped with our homemade white secret sauce. The finest grande mozzarella, thinly sliced Idaho potatoes, sliced red onions, a sprinkle of imported Parmesan cheese, black pepper and paprika. No red sauce.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Margherita Primavera Pizza",
+            "description": "A round thin crust topped with homemade fresh mozzarella, a delicious pomodoro sauce, grilled vegetables (eggplant, zucchini and tricolor peppers). Post-baked finished off with a generous sprinkling of imported Parmesan cheese, imported pecorino Romano, imported extra-virgin olive oil from Italy and fresh basil.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Spinach Dip Pizza",
+            "description": "A round thin crust topped with grande mozzarella, pecorino Romano and a secret homemade white sauce fresh spinach dip recipe. Post baked, finished off with a imported Parmesan cheese from Italy.",
+            "price": "$36.74"
+        },
+        {
+            "name": "Veggie Medley - A Vegan Friendly Pizza Slice",
+            "description": "On a light airy Sicilian crust is our homemade onion cooked based sauce with diced tomatoes, black olives, sliced onions, and fresh sauteed garlic mushrooms. Finished off with imported extra-virgin olive oil and fresh basil. No cheese.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Vegan Margarita Pizza Slice",
+            "description": "An organic nut free, soy free, artisanal sunflower seed vegan \"cheese\" non-dairy pie. A thin crust topped with generous dollops off fresh plum tomato sauce. Finished off with imported extra-virgin olive oil from Italy, oregano and fresh basil.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Vegan White Truffle Ash Brie Pizza Slice",
+            "description": "An organic nut free, soy free, artisanal vegan truffle ash brie \"cheese\" non-dairy pie. Topped with a secret creamy vegan sauce, vegan ash brie, sauteed onions and imported extra-virgin olive oil from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Creamy Potato Pizza Slice",
+            "description": "A round pie topped with our homemade white secret sauce. The finest grande mozzarella, thinly sliced Idaho potatoes, sliced red onions, a sprinkle of imported Parmesan cheese, black pepper and paprika. No red sauce.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Margherita Primavera Pizza Slice",
+            "description": "A round thin crust topped with homemade fresh mozzarella, a delicious pomodoro sauce, grilled vegetables (eggplant, zucchini and tricolor peppers). Post-baked finished off with a generous sprinkling of imported Parmesan cheese, imported pecorino Romano, imported extra-virgin olive oil from Italy and fresh basil.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Spinach Dip Pizza Slice",
+            "description": "A round thin crust topped with grande mozzarella, pecorino Romano and a secret homemade white sauce fresh spinach dip recipe. Post baked, finished off with a imported Parmesan cheese from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Roman Pizza",
+            "description": "Ham, sausage, pepperoni with imported Romano and the finest Grande mozzarella cheeses surrounded by a thin light golden crust all around. No sauce.",
+            "price": "$41.00"
+        },
+        {
+            "name": "Lasagna Pizza (12 Slices)",
+            "description": "Sausage, meatball, ricotta, imported Romano and the finest Grande mozzarella cheeses surrounded by a thin light golden crust all round.",
+            "price": "$41.00"
+        },
+        {
+            "name": "Stuffed Vegetable Pizza (12 Slices)",
+            "description": "Fresh mushrooms, spinach, broccoli, imported Romano and the finest Grande mozzarella cheeses surrounded by a thin light crust all round.",
+            "price": "$41.00"
+        },
+        {
+            "name": "NYC Round Cheese Pizza Slice",
+            "description": "Our famous signature pizza with a light delicious thin crust slightly charred, topped with our famous homemade tomato sauce and imported pecorino Romano cheese and finest grande mozzarella.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Margarita Pizza Slice",
+            "description": "A thin hand-tossed crust is topped with a fresh homemade pomodoro sauce. The fresh mozzarella is placed in between and sprinkled on top, is a generous layer of imported pecorino Romano cheese. Then post bake, the pie is finished off with a generous sprinkling of imported Parmesan cheese from Italy and a light drizzling of imported extra-virgin olive oil from Italy with a hand toss of fresh basil.",
+            "price": "$5.00"
+        },
+        {
+            "name": "White Pizza with Garlic Slice",
+            "description": "No red sauce. A thin white slice topped with generous dollops of the finest whipped creamiest ricotta and finished with a sprinkling of imported pecorino Romano, fresh garlic and a drizzle of imported extra-virgin olive oil from Italy.",
+            "price": "$5.00"
+        },
+        {
+            "name": "New York Style Sicilian Pizza Slice",
+            "description": "A deep dish crust light and airy with our homemade cooked onion base sauce, sprinkled with imported pecorino Romano, fresh basil and imported extra-virgin olive oil from Italy covered with our finest grande mozzarella.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Upside Down Pizza Slice",
+            "description": "Sauce lovers favorite. The finest grande mozzarella covers a light and airy deep dish square crust. The mozzarella is covered with our homemade cooked onion based sauce. Then finished with imported pecorino Romano cheese and imported extra-virgin olive oil from Italy with a tossing of fresh basil.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Grandma Pizza Slice",
+            "description": "On a thin crust pan baked is a fresh plum tomato sauce, imported pecorino Romano, fresh mozzarella. Post-baked, finished off with fresh basil, imported Parmesan cheese and imported extra-virgin olive oil from Italy.",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chicken Parmigiana Pizza Slice",
+            "description": "Our famous round pie topped with lightly breaded white meat chicken cutlet, imported pecorino Romano cheese and the finest grande mozzarella cheese, finished off with fresh basil.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Chicken Bacon Ranch Pizza Slice",
+            "description": "Fresh white meat chicken cutlet, crispy bacon, fresh jalapenos, sauteed onions and our finest grande mozzarella, with a sprinkling of imported pecorino Romano on a thin crust finished off with a creamy ranch dressing.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Buffalo Chicken Pizza Slice",
+            "description": "Our famous pie topped off with a delicious tender white meat Buffalo chicken. Covered with a medium to spicy Buffalo chicken sauce.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Suprema Pizza Slice",
+            "description": "Our namesake pie with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, topped with all the favorites: fine sweet Italian sausage, imported Italian pepperoni, sauteed slicedonions, fresh roasted red peppers and fresh mushrooms. Finished with fresh basil. No substitutions.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Meat Lover's Pizza Slice",
+            "description": "Our pie is topped off with Boar Heads ham, sweet Italian sausage, imported pepperoni and crushed Italian meatballs.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Hawaiian Pizza Slice",
+            "description": "Our pie topped with our homemade tomato sauce, finest grande mozzarella, fresh pineapples and Boar Head's ham and finished off with our Parmesan cheese imported from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Pepperoni Fra Diavolo Pizza Slice",
+            "description": "We start off with a light and airy Sicilian style crust. Topped with our finest grande mozzarella. Our fresh homemade fra diavolo sauce and finished with our imported spicy pepperoni from Italy.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Burrata Pizza Slice",
+            "description": "Our signature pizza with our slightly charred light delicious thin crust, topped with our homemade tomato sauce, imported pecorino Romano, grande mozzarella, imported Parmesan with dollops of burrata cheese, a touch of fresh basil and imported extra-virgin olive oil from Italy.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Hot Honey Pizza Slice",
+            "description": "The same great grandma pie topped with fresh mushrooms. Our round pie with light dollops of fresh ricotta, fresh mushrooms, our finest grande mozzarella. Post baked, finished with a hot pepper infused honey.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Fig Pizza Slice",
+            "description": "A pie topped off with the finest grande mozzarella, creamy goat cheese, fig spread, premium bacon, imported pecorino Romano, fresh basil and imported extra-virgin olive oil from Italy.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Veggie Medley - A Vegan Friendly Pizza Slice",
+            "description": "On a light airy Sicilian crust is our homemade onion cooked based sauce with diced tomatoes, black olives, sliced onions, and fresh sauteed garlic mushrooms. Finished off with imported extra-virgin olive oil and fresh basil. No cheese.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Vegan Margarita Pizza Slice",
+            "description": "An organic nut free, soy free, artisanal sunflower seed vegan \"cheese\" non-dairy pie. A thin crust topped with generous dollops off fresh plum tomato sauce. Finished off with imported extra-virgin olive oil from Italy, oregano and fresh basil.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Vegan White Truffle Ash Brie Pizza Slice",
+            "description": "An organic nut free, soy free, artisanal vegan truffle ash brie \"cheese\" non-dairy pie. Topped with a secret creamy vegan sauce, vegan ash brie, sauteed onions and imported extra-virgin olive oil from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Creamy Potato Pizza Slice",
+            "description": "Topped with our homemade white secret sauce. The finest grande mozzarella, thinly sliced Idaho potatoes, sliced red onions, a sprinkle of imported Parmesan cheese, black pepper and paprika. No red sauce.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Margherita Primavera Pizza Slice",
+            "description": "Thin crust topped with homemade fresh mozzarella, a delicious pomodoro sauce, grilled vegetables (eggplant, zucchini and tricolor peppers). Post-baked finished off with a generous sprinkling of imported Parmesan cheese, imported pecorino Romano, imported extra-virgin olive oil from Italy and fresh basil.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Spinach Dip Pizza Slice",
+            "description": "A thin crust topped with grande mozzarella, pecorino Romano and a secret homemade white sauce fresh spinach dip recipe. Post baked, finished off with a imported Parmesan cheese from Italy.",
+            "price": "$6.00"
+        },
+        {
+            "name": "Calzone",
+            "description": "Imported romano and the finest ricotta and grande mozzarella cheeses.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Sausage Roll",
+            "description": "Sausage, onions, peppers, romano and grande mozzarella cheeses. No sauce.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Meatball Roll",
+            "description": "Our famous onion based cooked sauce - meatballs, imported romano and grande mozzarella cheeses.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Chicken Parmigiana Roll",
+            "description": "Our famous onion based cooked sauce - lightly breaded white meat chicken cutlet imported romano and grande mozzarella cheeses.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Eggplant Parmigiana Roll",
+            "description": "Onion-based sauce - lightly breaded eggplant, romano, ricotta & grande mozzarella cheeses.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Broccoli Roll",
+            "description": "Broccoli, light garlic, with ricotta and Grande mozzarella cheeses.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Spinach Roll",
+            "description": "Spinach, light garlic, with ricotta and Grande mozzarella cheeses.",
+            "price": "$8.00"
+        }
+    ]
+}

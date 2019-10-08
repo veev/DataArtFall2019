@@ -14,7 +14,7 @@ async function run() {
   for (let i = idx; i < yelpData.length; i++) {
     const id = `${yelpData[i].id}`
     //let queryString = `https://www.yelp.com/menu/roccos-pizza-joint-new-york`
-    const filename = `${id}.json`
+    const filename = `${id}.json` // id + '.json'
     console.log(idx, id)
     await getRestaurantInfo(page, id, filename)
     idx++
@@ -31,6 +31,7 @@ async function getRestaurantInfo(page, id, filename) {
   await page.waitFor(randomIntFromInterval(900,1200))
   await page.goto(queryStringBiz)
 
+  //'#wrap > div.main-content-wrap.main-content-wrap--full > div > div.lemon--div__373c0__1mboc.spinner-container__373c0__N6Hff.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.u-space-t3.u-space-b6.border-color--default__373c0__2oFDT > div > div > div.lemon--div__373c0__1mboc.stickySidebar--heightContext__373c0__133M8.tableLayoutFixed__373c0__12cEm.arrange__373c0__UHqhV.u-space-b6.u-padding-b4.border--bottom__373c0__uPbXS.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.arrange-unit__373c0__1piwO.arrange-unit-grid-column--8__373c0__2yTAx.u-padding-r6.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.u-space-b3.border-color--default__373c0__2oFDT > div > div:nth-child(1) > h1'
   // const NAME_SELECTOR = `#wrap > div.biz-country-us > div > div.top-shelf > div > div.biz-page-header.clearfix > div.biz-page-header-left > div > h1`
   const NAME_SELECTOR = `#wrap > div.main-content-wrap.main-content-wrap--full > div > div.lemon--div__373c0__1mboc.spinner-container__373c0__N6Hff.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.u-space-t3.u-space-b6.border-color--default__373c0__2oFDT > div > div > div.lemon--div__373c0__1mboc.stickySidebar--heightContext__373c0__133M8.tableLayoutFixed__373c0__12cEm.arrange__373c0__UHqhV.u-space-b6.u-padding-b4.border--bottom__373c0__uPbXS.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.arrange-unit__373c0__1piwO.arrange-unit-grid-column--8__373c0__2yTAx.u-padding-r6.border-color--default__373c0__2oFDT > div.lemon--div__373c0__1mboc.u-space-b3.border-color--default__373c0__2oFDT > div > div:nth-child(1) > h1`
   // const PHONE_SELECTOR = `#wrap > div.biz-country-us > div > div.top-shelf > div > div.biz-page-subheader > div.mapbox-container > div > div.mapbox-text > ul > li:nth-child(4) > span.biz-phone`
@@ -60,6 +61,7 @@ async function getRestaurantInfo(page, id, filename) {
 }
 
 async function getMenu(page, id, filename, fileInfo) {
+                        // '#super-container > div.container.biz-menu > div.clearfix.layout-block.layout-a > div.column.column-alpha > div > div > div'
   const MENU_ROW_ITEM = `#super-container > div.container.biz-menu > div.clearfix.layout-block.layout-a > div.column.column-alpha > div > div > div`
   //#super-container > div.container.biz-menu > div.clearfix.layout-block.layout-a > div.column.column-alpha > div > div:nth-child(2) > div:nth-child(1) > div
   const menuItems = await page.evaluate((sel) => {
@@ -78,6 +80,7 @@ async function getMenu(page, id, filename, fileInfo) {
         menuItem.price = row.querySelector('div.menu-item-prices.arrange_unit > ul > li.menu-item-price-amount').innerText
       }
       // lazaras has prices in this format
+                            // ' > div > div.menu-item-prices.arrange_unit > ul > li'
       if (row.querySelector('div.menu-item-prices.arrange_unit > table > tbody')) {
         const prices = row.querySelectorAll('div.menu-item-prices.arrange_unit > table > tbody > tr')
         const priceArray = []

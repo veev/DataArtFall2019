@@ -1,0 +1,129 @@
+{
+    "name": "2 Bros Pizza",
+    "phone": null,
+    "restaurant_id": "2-bros-pizza-new-york-3",
+    "menu": [
+        {
+            "name": "Canned Soda",
+            "price": "$2.00"
+        },
+        {
+            "name": "Bottled Water",
+            "price": "$2.00"
+        },
+        {
+            "name": "Snapple",
+            "price": "$2.50"
+        },
+        {
+            "name": "Cheese Pie",
+            "price": "$12.00"
+        },
+        {
+            "name": "Extra Cheese Pie",
+            "price": "$16.00"
+        },
+        {
+            "name": "Pepperoni Pie",
+            "price": "$18.00"
+        },
+        {
+            "name": "Mushroom Pie",
+            "price": "$18.00"
+        },
+        {
+            "name": "Black Olive Pie",
+            "price": "$18.00"
+        },
+        {
+            "name": "Sausage Pie",
+            "price": "$22.00"
+        },
+        {
+            "name": "Hawaiian Pie",
+            "price": "$22.00"
+        },
+        {
+            "name": "White Pie",
+            "price": "$24.00"
+        },
+        {
+            "name": "Sausage and Peppers Pie",
+            "price": "$26.00"
+        },
+        {
+            "name": "Broccoli and White Pie",
+            "price": "$26.00"
+        },
+        {
+            "name": "Vegetable Pie",
+            "price": "$24.00"
+        },
+        {
+            "name": "Meat Supreme Pie",
+            "description": "Sausage, ham and assorted vegetables.",
+            "price": "$32.00"
+        },
+        {
+            "name": "Meatball Pie",
+            "price": "$22.00"
+        },
+        {
+            "name": "Meatlovers Pie",
+            "description": "Cheese Pie with an assorted mix of meats including Bacon, Sausage, and Pepperoni.",
+            "price": "$30.00"
+        },
+        {
+            "name": "Chicken Pie",
+            "price": "$32.00"
+        },
+        {
+            "name": "Buffalo Chicken Pie",
+            "price": "$34.00"
+        },
+        {
+            "name": "Regular Cheese Pizza Slice",
+            "price": "$2.50"
+        },
+        {
+            "name": "Pepperoni Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Sausage Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Black Olive Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Mushroom Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Hawaiian Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "White Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Vegetable Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Sausage and Peppers Slice",
+            "price": "$4.00"
+        },
+        {
+            "name": "Chicken Slice",
+            "price": "$4.00"
+        },
+        {
+            "name": "Buffalo Chicken Slice",
+            "price": "$4.50"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "name": "Waldy's Wood Fired Pizza & Penne",
+    "phone": "(212) 213-5042",
+    "restaurant_id": "waldys-wood-fired-pizza-and-penne-new-york-5",
+    "menu": [
+        {
+            "name": "Can Soda",
+            "price": "$1.50"
+        },
+        {
+            "name": "Honest",
+            "price": "$2.25"
+        },
+        {
+            "name": "Pellegrino Soda",
+            "price": "$2.25"
+        },
+        {
+            "name": "Boylan's Soda",
+            "price": "$2.50"
+        },
+        {
+            "name": "Bottled Water",
+            "price": "$1.50"
+        },
+        {
+            "name": "Waldy's House Salad",
+            "description": "Mixed greens, tomatoes, cucumbers and herb vinaigrette.",
+            "price": "$4.95"
+        },
+        {
+            "name": "Max's Great Caesar Salad",
+            "description": "Romaine, Parmesan and our own dressing.",
+            "price": "$5.25"
+        },
+        {
+            "name": "Joe Dairy's Mozzarella and Tomatoes Salad",
+            "description": "Basil, arugula and extra virgin olive oil.",
+            "price": "$5.25"
+        },
+        {
+            "name": "Kale Caesar Salad",
+            "description": "Kale, Parmesan & Our Own Dressing",
+            "price": "$5.25"
+        },
+        {
+            "name": "Mediterranean Salad",
+            "description": "Romaine, Mixed Olives, Roasted Red Peppers, Red Onion, Cucumbers, Artichoke Hearts, Feta Cheese with Creamy Balsamic Dressing",
+            "price": "$5.95"
+        },
+        {
+            "name": "Double Cheddar Cheese Penne",
+            "price": "$7.95"
+        },
+        {
+            "name": "Sausage and Broccoli Rabe Penne",
+            "price": "$7.95"
+        },
+        {
+            "name": "Mozzarella and Tomato Penne",
+            "description": "A la vodka.",
+            "price": "$7.95"
+        },
+        {
+            "name": "Plain 4-Cheese Pizza",
+            "price": "$6.50"
+        },
+        {
+            "name": "Our Classic Margherita Pizza",
+            "description": "Mozzarella and basil.",
+            "price": "$7.50"
+        },
+        {
+            "name": "Wild Mushrooms and Red Onions Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Arugula, Garlic and Sunny Side Eggs Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Roasted Eggplant, Zucchini and Olives Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Chicken with Bacon and Chipotle Peppers Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Pepperoni, Broccoli Rabe and Tomatoes Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Sweet and Hot Sausage with Roasted Peppers Pizza",
+            "price": "$8.00"
+        },
+        {
+            "name": "Braised Lamb, Roasted Lemon and Oregano Pizza",
+            "price": "$9.00"
+        },
+        {
+            "name": "Prosciutto, Asparagus and Parmesan Pizza",
+            "price": "$9.00"
+        },
+        {
+            "name": "Clam with Garlic, Crumbs and Ricotta White Pizza",
+            "price": "$9.00"
+        },
+        {
+            "name": "Garlic and Salt Roll",
+            "price": "$0.75"
+        },
+        {
+            "name": "Haagen-Dazs Chocolate Ice Cream",
+            "price": "$2.50"
+        },
+        {
+            "name": "Haagen-Dazs Vanilla Ice Cream",
+            "price": "$2.50"
+        },
+        {
+            "name": "Haagen-Dazs Strawberry Ice Cream",
+            "price": "$2.50"
+        },
+        {
+            "name": "Haagen-Dazs Caramel Cone",
+            "price": "$2.50"
+        },
+        {
+            "name": "Brownie",
+            "price": "$2.25"
+        },
+        {
+            "name": "Chewy Marshmallow Bar",
+            "description": "Marshmallow bar by Sweet Streets with brown butter and sea salt.",
+            "price": "$2.25"
+        },
+        {
+            "name": "Waldy's Wings",
+            "description": "10 pcs",
+            "price": "$9.95"
+        }
+    ]
+}

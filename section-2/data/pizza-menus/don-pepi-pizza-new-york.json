@@ -1,0 +1,164 @@
+{
+    "name": "Don Pepi Pizza",
+    "phone": null,
+    "restaurant_id": "don-pepi-pizza-new-york",
+    "menu": [
+        {
+            "name": "1 Liter Smart Water",
+            "price": "$4.50"
+        },
+        {
+            "name": "20 oz. Smart Water",
+            "price": "$3.50"
+        },
+        {
+            "name": "1 Liter Water",
+            "price": "$3.75"
+        },
+        {
+            "name": "20 oz. Water",
+            "price": "$2.75"
+        },
+        {
+            "name": "Powerade",
+            "price": "$3.00"
+        },
+        {
+            "name": "Gold Peak Tea",
+            "price": "$3.50"
+        },
+        {
+            "name": "Vitamin Water",
+            "price": "$3.00"
+        },
+        {
+            "name": "8 oz. Redbull",
+            "price": "$3.00"
+        },
+        {
+            "name": "12 oz. Redbull",
+            "price": "$4.00"
+        },
+        {
+            "name": "Snapple",
+            "price": "$2.75"
+        },
+        {
+            "name": "Cheese Pizza",
+            "price": "$3.50"
+        },
+        {
+            "name": "Pepperoni Pizza",
+            "price": "$4.25"
+        },
+        {
+            "name": "Sausage Pizza",
+            "price": "$4.25"
+        },
+        {
+            "name": "Meatball Pizza",
+            "price": "$4.25"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "price": "$4.25"
+        },
+        {
+            "name": "Meat Combo Pizza",
+            "description": "Pepperoni, sausage and onion.",
+            "price": "$4.75"
+        },
+        {
+            "name": "White Pizza",
+            "description": "Ricotta and mozzarella.",
+            "price": "$4.25"
+        },
+        {
+            "name": "White Pizza with Broccoli",
+            "price": "$4.75"
+        },
+        {
+            "name": "White Pizza with Tomato",
+            "price": "$4.75"
+        },
+        {
+            "name": "Vodka Pesto Pizza",
+            "description": "Vodka sauce, fresh mozzarella and pesto swirl.",
+            "price": "$4.75"
+        },
+        {
+            "name": "Buffalo Chicken Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Veggie Combo Pizza",
+            "description": "Peppers, mushrooms, onions and black olives.",
+            "price": "$4.75"
+        },
+        {
+            "name": "Sicilian Pizza",
+            "price": "$3.75"
+        },
+        {
+            "name": "Grandma Pizza",
+            "price": "$3.75"
+        },
+        {
+            "name": "Chicken Cutlet Hero",
+            "price": "$8.50"
+        },
+        {
+            "name": "Chicken Cutlet Parm Hero",
+            "price": "$9.00"
+        },
+        {
+            "name": "Meatball Hero",
+            "price": "$8.50"
+        },
+        {
+            "name": "Meatball Parm Hero",
+            "price": "$9.00"
+        },
+        {
+            "name": "Sausage Hero",
+            "price": "$8.50"
+        },
+        {
+            "name": "Sausage and Peppers Hero",
+            "price": "$9.00"
+        },
+        {
+            "name": "Sausage and Peppers Parm Hero",
+            "price": "$9.50"
+        },
+        {
+            "name": "Cheese Calzone",
+            "description": "Ricotta and mozzarella.",
+            "price": "$6.50"
+        },
+        {
+            "name": "Ham Calzone",
+            "price": "$7.25"
+        },
+        {
+            "name": "Stromboli",
+            "description": "Pepperoni, bell peppers and mozzarella.",
+            "price": "$6.50"
+        },
+        {
+            "name": "Chicken Roll",
+            "description": "Breaded chicken, homemade marinara sauce and mozzarella.",
+            "price": "$6.50"
+        },
+        {
+            "name": "Sausage Roll",
+            "description": "Sweet Italian link sausage, sauteed bell peppers, onions and mozzarella.",
+            "price": "$6.50"
+        },
+        {
+            "name": "Broccoli Roll",
+            "description": "Marinated broccoli and mozzarella.",
+            "price": "$6.50"
+        }
+    ]
+}

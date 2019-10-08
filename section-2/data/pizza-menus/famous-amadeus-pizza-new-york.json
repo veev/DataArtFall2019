@@ -1,0 +1,1520 @@
+{
+    "name": "Famous Amadeus Pizza",
+    "phone": "(212) 904-1112",
+    "restaurant_id": "famous-amadeus-pizza-new-york",
+    "menu": [
+        {
+            "name": "Garlic Knots",
+            "description": "5 pieces.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Beef Patty",
+            "price": "$3.00"
+        },
+        {
+            "name": "Beef Patty with Mozzarella Cheese",
+            "price": "$4.00"
+        },
+        {
+            "name": "Mozzarella Sticks",
+            "description": "Breaded mozzarella sticks and tomato sauce.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Garlic Bread",
+            "description": "Toasted to perfection.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Garlic Bread with Melted Mozzarella Cheese",
+            "price": "$5.00"
+        },
+        {
+            "name": "Jalapeno Poppers",
+            "price": "$8.00"
+        },
+        {
+            "name": "Pizza Fries",
+            "description": "Fries, pizza sauce and melted mozzarella.",
+            "price": "$6.00"
+        },
+        {
+            "name": "House Fries",
+            "price": "$5.00"
+        },
+        {
+            "name": "Garlic Shrimp",
+            "description": "Sauteed shrimp with garlic and oil.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Fried Calamari",
+            "description": "Breaded calamari with tomato sauce and garlic and oil.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Onion Rings",
+            "price": "$6.00"
+        },
+        {
+            "name": "Crispy Finger Appetizer",
+            "price": "$9.00"
+        },
+        {
+            "name": "Garlic Knots",
+            "description": "Five pieces.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Strips of Fire",
+            "price": "$9.00"
+        },
+        {
+            "name": "House Salad",
+            "description": "Lettuce, tomatoes, cucumbers and green olives.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Caesar Salad",
+            "description": "Romaine lettuce, croutons and a touch of parmigiana cheese.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Lemon Grilled Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Crispy Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Buffalo Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Teriyaki Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Honey Mustard Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Cajun Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Balsamic Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "BBQ Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Hawaiian Chicken Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Tuna Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Turkey Caesar Salad",
+            "price": "$8.00"
+        },
+        {
+            "name": "Greek Salad",
+            "description": "Feta cheese, olives, tomatoes, cucumbers, peppers, lettuce and dressing.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Greek Salad with Grilled Chicken",
+            "price": "$10.00"
+        },
+        {
+            "name": "Greek Crispy Chicken Salad",
+            "price": "$10.00"
+        },
+        {
+            "name": "House Salad with Garlic Shrimp",
+            "price": "$12.00"
+        },
+        {
+            "name": "Caesar Salad with Garlic Shrimp",
+            "price": "$12.00"
+        },
+        {
+            "name": "Antipasto Salad",
+            "description": "Large size only.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Grilled Chicken Caesar Salad",
+            "price": "$0.00"
+        },
+        {
+            "name": "Shrimp Salad",
+            "price": "$10.00"
+        },
+        {
+            "name": "5 Pieces Buffalo Wings",
+            "description": "Served with carrots, celery and blue cheese dressing and choice of sauce.",
+            "price": "$7.00"
+        },
+        {
+            "name": "10 Pieces Buffalo Wings",
+            "description": "Served with celery, carrots and your choice of 1 side sauce.",
+            "price": "$11.00"
+        },
+        {
+            "name": "20 Pieces Buffalo Wings",
+            "description": "Served with carrots, celery and blue cheese dressing. Your choice of sauce.",
+            "price": "$21.00"
+        },
+        {
+            "name": "30 Pieces Buffalo Wings",
+            "description": "Served with carrots, celery and blue cheese dressing and choice of sauce.",
+            "price": "$30.00"
+        },
+        {
+            "name": "40 Buffalo Wings",
+            "description": "Served with celery, carrots and your choice of 1 side sauce.",
+            "price": "$36.00"
+        },
+        {
+            "name": "5 Chicken Tenders",
+            "description": "Served with celery sticks and your choice of sauce.",
+            "price": "$7.50"
+        },
+        {
+            "name": "7 Chicken Tenders",
+            "description": "Served with celery sticks and your choice of sauce.",
+            "price": "$10.00"
+        },
+        {
+            "name": "10 Chicken Tenders",
+            "description": "Served with celery sticks and your choice of sauce.",
+            "price": "$14.00"
+        },
+        {
+            "name": "20 Chicken Fingers",
+            "description": "Served with celery sticks and your choice of sauce.",
+            "price": "$25.00"
+        },
+        {
+            "name": "40 Chicken Fingers",
+            "description": "Served with your choice of sauce.",
+            "price": "$35.00"
+        },
+        {
+            "name": "Slice of Cheese Pizza",
+            "description": "Plain Slice is default - add toppings to customize",
+            "price": "$3.00"
+        },
+        {
+            "name": "1 Topping Pizza Slice",
+            "price": "$3.85"
+        },
+        {
+            "name": "Sicilian Pizza Slice",
+            "price": "$3.85"
+        },
+        {
+            "name": "Grandma's Slice Pizza",
+            "price": "$4.50"
+        },
+        {
+            "name": "Margherita Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Chicken Parmigiana Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Buffalo Chicken Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Buffalo Ranch Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Grandpa Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Chicken Marsala Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Margherita Vodka Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Bacon and Pepperoni Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Hawaiian Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Grandma Margherita Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Mix Veggies Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Sausage and Peppers Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Penne ala Vodka Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Sicilian Bacon and Pepperoni Slice",
+            "price": "$4.50"
+        },
+        {
+            "name": "Crumble Sausage, Pepperoni and Bacon Slice",
+            "price": "$4.75"
+        },
+        {
+            "name": "Pepperoni and Sausage Pizza Slice",
+            "price": "$4.00"
+        },
+        {
+            "name": "Upside Down Pizza Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Cheese Pizza",
+            "price": "$13.00"
+        },
+        {
+            "name": "Margherita Pizza",
+            "description": "Fresh mozzarella, fresh basil, and crushed tomato.",
+            "price": "$15.00"
+        },
+        {
+            "name": "White Pizza",
+            "price": "$15.00"
+        },
+        {
+            "name": "Sicilian Pizza",
+            "price": "$23.00"
+        },
+        {
+            "name": "Upside Down Sicilian Pizza",
+            "description": "Homemade marinara sauce and mozzarella cheese.",
+            "price": "$23.00"
+        },
+        {
+            "name": "Grandma's Pizza",
+            "price": "$27.00"
+        },
+        {
+            "name": "Grandma Lovers Pizza",
+            "description": "Bacon, pepperoni and fresh mozzarella cheese.",
+            "price": "$27.00"
+        },
+        {
+            "name": "Chicken Parm Pizza",
+            "price": "$13.00"
+        },
+        {
+            "name": "Anchovies Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Black Olives Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Broccoli Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Chicken Buffalo Ranch Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chicken Parmigiana Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chicken and Tomato Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Eggplant Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Extra Cheese Pizza",
+            "price": "$12.50"
+        },
+        {
+            "name": "Green Peppers Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Margherita Pizza",
+            "price": "$12.00"
+        },
+        {
+            "name": "Meatballs Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Mushrooms Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Onions Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pepperoni Pizza",
+            "price": "$12.50"
+        },
+        {
+            "name": "Pepperoni and Sausage Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Sausage Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Spinach Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Vegetarian Square Pizza",
+            "price": "$29.00"
+        },
+        {
+            "name": "White Pizza",
+            "price": "$11.00"
+        },
+        {
+            "name": "Grandpa Pizza",
+            "description": "Fresh mozzarella, homemade tomato sauce, and spicy pepperoni.",
+            "price": "$28.00"
+        },
+        {
+            "name": "Caprese Pizza",
+            "description": "Fresh mozzarella, red onions, diced tomatoes and fresh basil.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chicken, Broccoli and Tomato Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Garlic Shrimp Pizza",
+            "description": "Sauteed garlic shrimp, tomato and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Special 1 Pizza",
+            "description": "Penne pasta, vodka sauce, crispy chicken and fresh mozzarella.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Hawaiian Pizza",
+            "description": "Diced pineapple, ham and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Supreme Special Pizza",
+            "description": "Meat and veggies only.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Veggie Supreme Special Pizza",
+            "description": "Veggies only.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Tex Mex Pizza",
+            "description": "Ground beef, jalapenos, onions and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Green Peppers, Sauteed Onions and Bacon Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Margherita ala Vodka Sauce Pizza",
+            "description": "Penne pasta, mozzarella cheese and vodka sauce.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Philly Cheesesteak Pizza",
+            "description": "Beef, onions, green peppers, mozzarella.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Portuguese Chorizo Pizza",
+            "description": "Chorizo, peppers, onions and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Lasagna Pizza",
+            "description": "Beef, ricotta, tomato and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Buffalo Chicken Pizza",
+            "description": "Spicy buffalo chicken and blue cheese dressing.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chargrilled Chicken Pizza",
+            "description": "Chicken, broccoli, tomato sauce and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Penne ala Vodka Sauce Pizza",
+            "description": "Penne a la vodka with fresh mozzarella.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Grilled Chicken Vodka Sauce Pizza",
+            "description": "Crispy or grilled chicken.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Country Pizza",
+            "description": "Ground beef, green peppers, onions, banana peppers, diced tomatoes, ranch dressing.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Crispy Chicken Bacon Ranch Pizza",
+            "description": "Crispy chicken, bacon and ranch dressing.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chicken Marsala Pizza",
+            "description": "Sauteed chicken in a Marsala wine sauce, mushrooms and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Chicken Francese Pizza",
+            "description": "Sauteed chicken in a lemon wine sauce and mozzarella cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Alfredo Grilled Chicken Pizza",
+            "description": "Charbroiled chicken and mozzarella cheese with broccoli or spinach.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Old School Pizza",
+            "description": "With Italian crumbled sausage and bacon.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Portuguese White Chorizo Pizza",
+            "description": "Portuguese chorizo, diced tomatoes and ricotta cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Pesto Pizza",
+            "description": "Italian pesto, fresh mozzarella, diced tomatoes and Romano cheese.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Meat Lovers Pizza",
+            "price": "$16.00"
+        },
+        {
+            "name": "Classic Calzone",
+            "description": "Stuffed with ricotta and mozzarella cheeses.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Ham Calzone",
+            "description": "Ham, ricotta and mozzarella cheeses.",
+            "price": "$7.50"
+        },
+        {
+            "name": "Pepperoni Calzone",
+            "description": "Pepperoni, ricotta and mozzarella cheeses.",
+            "price": "$7.50"
+        },
+        {
+            "name": "Chicken Calzone",
+            "description": "Choice of chicken Parmigiana or buffalo chicken, ricotta and mozzarella cheeses.",
+            "price": "$7.50"
+        },
+        {
+            "name": "Broccoli Calzone",
+            "description": "Sauteed broccoli, ricotta and mozzarella cheeses.",
+            "price": "$7.50"
+        },
+        {
+            "name": "Sausage and Cheese Calzone",
+            "price": "$6.00"
+        },
+        {
+            "name": "Spinach and Cheese Calzone",
+            "price": "$6.00"
+        },
+        {
+            "name": "Chicken Roll",
+            "description": "Crispy chicken cutlet, sauce, and cheese.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Sausage and Peppers Roll",
+            "description": "Peppers, onions and cheese.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Meatball Roll",
+            "description": "Meatballs and cheese.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Pasta with Marinara Sauce",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pasta with Meat Sauce",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Italian Sausage",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Meatballs",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with White Clam Sauce",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Red Clam Sauce",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Garlic and Oil",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pasta with Butter Sauce",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pasta with Broccoli, Garlic and Oil",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Broccoli and Tomato Sauce",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Mushrooms",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta with Broccoli and Mushrooms",
+            "description": "Your choice of spaghetti or ziti.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pasta with Grilled Chicken",
+            "description": "Served with marinara sauce and your choice of spaghetti or ziti.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Pasta with Tomato Sauce",
+            "description": "Your choice of spaghetti or ziti.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Chicken Parmigiana Hero",
+            "description": "Chicken cutlet, tomato sauce and melted mozzarella cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Chicken Marinara Hero",
+            "description": "Grilled chicken, marinara sauce and mozzarella cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Meatball Hero",
+            "price": "$10.00"
+        },
+        {
+            "name": "Meatball Parmigiana Hero",
+            "price": "$10.00"
+        },
+        {
+            "name": "Sausage and Peppers Hero",
+            "description": "Sausage, peppers, tomato sauce and mozzarella cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Eggplant Parmigiana Hero",
+            "price": "$10.00"
+        },
+        {
+            "name": "Veal Milanese Hero",
+            "description": "Tomato sauce, no cheese.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Veal Parmigiana Hero",
+            "price": "$11.00"
+        },
+        {
+            "name": "Sausage Parmigiana Hero",
+            "description": "Sausage, tomato sauce and mozzarella cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Shrimp Parmigiana Hero",
+            "description": "Sauteed garlic shrimp, tomato sauce and mozzarella cheese.",
+            "price": "$13.00"
+        },
+        {
+            "name": "Chicken Marsala Hero",
+            "description": "Chicken in a Marsala wine sauce and fresh mushrooms.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Chicken Francese Hero",
+            "description": "Chicken in a lemon wine sauce.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Peppers and Eggs Hero",
+            "price": "$8.00"
+        },
+        {
+            "name": "Grilled Chicken Hero",
+            "description": "Fresh mozzarella, fired roasted peppers, lettuce, and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Grilled Chicken, Mozzarella and Fire Roasted Peppers Hero",
+            "description": "Served with lettuce and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Teriyaki Grilled Chicken Hero",
+            "description": "Grilled chicken, sauteed mushrooms and teriyaki sauce.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Cajun Grilled Chicken Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Balsamic Grilled Chicken Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$10.00"
+        },
+        {
+            "name": "BBQ Grilled Chicken Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Griled Chicken Club BLT Hero",
+            "description": "Served with bacon, lettuce, tomato and mayo.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Chicken Marsala Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$8.50"
+        },
+        {
+            "name": "Lemon Grilled Chicken Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$8.50"
+        },
+        {
+            "name": "Beef Burger",
+            "description": "Brioche bun, lettuce, and tomatoes.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Cheeseburger",
+            "description": "Brioche bun, cheese, lettuce, and tomatoes.",
+            "price": "$7.00"
+        },
+        {
+            "name": "Bacon Cheeseburger",
+            "description": "Brioche bun, bacon, cheese, lettuce, and tomatoes.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Tex Mex Burger",
+            "description": "Brioche bun, cheese, jalapeno peppers, lettuce, and tomatoes.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Pizza Burger",
+            "description": "Brioche bun, mozzarella cheese and tomato sauce.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Cajun Burger",
+            "description": "Brioche bun, spicy cajun, cheese, lettuce, and tomato.",
+            "price": "$8.00"
+        },
+        {
+            "name": "BBQ Burger",
+            "description": "Served with lettuce, tomato, onion, and pickles.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Mushroom Burger",
+            "description": "Brioche bun, sauteed mushrooms, cheese, lettuce, and tomatoes.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Crispy Chicken Burger",
+            "description": "Chicken cutlet, lettuce, tomatoes.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Bacon Crispy Chicken Burger",
+            "description": "Brioche bun, bacon, chicken cutlet, lettuce, and tomatoes.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Turkey Burger",
+            "description": "Ground turkey, lettuce and tomatoes.",
+            "price": "$8.00"
+        },
+        {
+            "name": "Black Angus Burger",
+            "price": "$8.00"
+        },
+        {
+            "name": "Grilled Chicken Burger",
+            "description": "Served with lettuce, tomato, onion, and pickles.",
+            "price": "$5.50"
+        },
+        {
+            "name": "Philly Steak Sandwich",
+            "description": "Sauteed onions and peppers. No cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Philly Cheese Steak Sandwich",
+            "description": "Sauteed onions, peppers, and cheese.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Bacon Philly Steak Sandwich",
+            "description": "Bacon, onions, peppers, and cheese.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Double Steak Sandwich",
+            "description": "Onions, peppers, and cheese.",
+            "price": "$13.00"
+        },
+        {
+            "name": "Tex Mex Steak Sandwich",
+            "description": "Onions, peppers, jalapeno peppers and cheese.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Gyro",
+            "description": "Gyro meat, cucumber sauce, tomatoes, and lettuce.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Mushroom Philly Cheese Steak Sandwich",
+            "description": "Mushrooms, onions, peppers and cheese.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Buffalo Philly Steak Sandwich",
+            "description": "Served with peppers, onions and your choice of meat.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Cheese Pizza Steak Sandwich",
+            "description": "Served with peppers, onions, mozzarella, tomato sauce and your choice of meat.",
+            "price": "$9.50"
+        },
+        {
+            "name": "Philly Steak Sandwich",
+            "description": "Served with lettuce, tomatoes, mayonnaise and your choice of meat.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Grilled Chicken Sandwich",
+            "description": "Grilled chicken breast, lettuce, and tomato.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Capri Chicken Sandwich",
+            "description": "Grilled chicken fresh mozzarella, fire roasted peppers, lettuce, and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Crispy Chicken Sandwich",
+            "description": "Crispy chicken cutlet, lettuce, tomato, onions, and ranch dressing.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Buffalo Chicken Sandwich",
+            "description": "Spicy chicken cutlet, lettuce and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Bacon Crispy Chicken Sandwich",
+            "description": "Bacon, chicken cutlet, lettuce, and tomatoes.",
+            "price": "$11.00"
+        },
+        {
+            "name": "BBQ Grilled Chicken Sandwich",
+            "description": "Grilled chicken, BBQ sauce, lettuce, and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Balsamic Chicken Sandwich",
+            "description": "Balsamic grilled chicken, lettuce and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Honey Mustard Chicken Sandwich",
+            "description": "Grilled chicken, honey mustard, lettuce, and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Cajun Chicken Sandwich",
+            "description": "Spicy grilled chicken, lettuce and tomatoes.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Chicken BLT Sandwich",
+            "description": "Bacon, grilled chicken, lettuce, tomato, and cheese.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Ham Sandwich",
+            "description": "Ham, lettuce, tomato, cheese, and mayo.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Italian Hero",
+            "description": "Ham, salami, cheese, lettuce, tomato and Italian dressing.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Turkey Breast Sandwich",
+            "description": "Lettuce, tomato, cheese and mayo.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Midtown Sandwich",
+            "description": "Turkey, bacon, lettuce, and tomato.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Grill Chicken Caesar Wrap",
+            "price": "$10.00"
+        },
+        {
+            "name": "Teriyaki Chicken Wrap",
+            "price": "$10.00"
+        },
+        {
+            "name": "Turkey Club",
+            "description": "Bacon, turkey, lettuce and tomatoes.",
+            "price": "$11.00"
+        },
+        {
+            "name": "Tuna Sandwich",
+            "description": "Tuna. lettuce, tomatoes, and mayo.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Vegetarian Sandwich",
+            "description": "Grilled veggies and mozzarella cheese.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Grilled Buffalo Chicken Sandwich",
+            "description": "Spicy chicken cutlet, lettuce and tomatoes.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Bacon, Lettuce, Tomato and Cheese",
+            "price": "$9.00"
+        },
+        {
+            "name": "Bread Crispy Chicken Cutlet",
+            "description": "With bacon, lettuce and cheese.",
+            "price": "$9.50"
+        },
+        {
+            "name": "Chicken Philly Sandwich",
+            "description": "Chicken, peppers and onions.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Gyro Sandwich",
+            "description": "Lamb, lettuce, tomato, onions and cucumber sauce.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Ham, Salami and Cheese",
+            "description": "With mayo.",
+            "price": "$8.75"
+        },
+        {
+            "name": "Hot Pastrami",
+            "price": "$8.75"
+        },
+        {
+            "name": "Hot Pastrami",
+            "description": "With Swiss and Russian dressing.",
+            "price": "$8.75"
+        },
+        {
+            "name": "Philly Steak Sandwich",
+            "description": "Beef, onions, peppers and American cheese.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Philly Tex Mex Sandwich",
+            "description": "Beef, onion, peppers, jalapenos and cheese.",
+            "price": "$9.50"
+        },
+        {
+            "name": "Times Square Sandwich",
+            "description": "Turkey, salami, pepperoni, cheese, lettuce, tomato and Italian dressing.",
+            "price": "$9.00"
+        },
+        {
+            "name": "Chicken Cutlet Parmigiana Dinner",
+            "description": "Served with chicken, tomato sauce, mozzarella and choice of side.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Grilled Chicken Parmigiana Dinner",
+            "description": "Flame grilled chicken, tomato sauce and mozzarella cheese.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Pasta ala Vodka Dinner",
+            "description": "Served with choice of side. Ricotta and tomato sauce.",
+            "price": "$14.00"
+        },
+        {
+            "name": "Pasta ala Vodka with Shrimp Dinner",
+            "description": "Served with choice of side.",
+            "price": "$17.00"
+        },
+        {
+            "name": "Pasta ala Vodka with Grilled Chicken Dinner",
+            "description": "Served with choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Penne ala Vodka with Crispy Chicken Dinner",
+            "description": "Ricotta and tomato sauce. Served with choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Pasta Alfredo Sauce",
+            "description": "Served with choice of side.",
+            "price": "$14.00"
+        },
+        {
+            "name": "Pasta Alfredo Sauce with Shrimp Dinner",
+            "description": "Served with choice of side.",
+            "price": "$17.00"
+        },
+        {
+            "name": "Pasta Alfredo Sauce with Grilled Chicken Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Penne Alfredo with Crispy Chicken Dinner",
+            "description": "Served with choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Penne Alfredo Sauce with Broccoli and Grilled Chicken",
+            "description": "Served with your choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Grilled Chicken with Broccoli Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Chicken Francese Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$14.00"
+        },
+        {
+            "name": "Chicken Marsala Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$14.00"
+        },
+        {
+            "name": "Eggplant Parmigiana Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Eggplant Rollatini Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$14.00"
+        },
+        {
+            "name": "Veal Marsala Dinner",
+            "description": "Veal, mushrooms sauteed in a Marsala wine. Served with your choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Veal Parmigiana Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Shrimp Parmigiana",
+            "description": "Sauteed shrimp, garlic and oil, tomato sauce and mozzarella. Served with your choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Fried Calamari",
+            "description": "Choice of tomato sauce or garlic and oil. Served with your choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Calamari in Garlic and Oil Dinner",
+            "description": "Fresh calamari sauteed with garlic and oil. Served with choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Calamari Marinara Dinner",
+            "description": "Fresh calamari in marinara sauce. Served with choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Balsamic Vinaigrette Grilled Chicken Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$13.00"
+        },
+        {
+            "name": "Calamari Fra Diavolo",
+            "description": "Served with your choice of side. Spicy.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Chicken Cordon Bleu Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$13.00"
+        },
+        {
+            "name": "Sausage and Pepper Dinner",
+            "description": "Served with your choice of side.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Shrimp Alfredo",
+            "description": "Shrimp with Alfredo sauce. With choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Shrimp Fra Diavolo",
+            "description": "Served with your choice of side.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Shrimp Vodka Dinner",
+            "description": "Shrimp with vodka sauce. Served with choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Veal Vodka Dinner",
+            "description": "Veal covered in vodka sauce with mozzarella. Served with choice of side.",
+            "price": "$16.00"
+        },
+        {
+            "name": "Baked Ziti",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Lasagna",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Ravioli",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Spaghetti",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Manicotti",
+            "price": "$12.00"
+        },
+        {
+            "name": "Eggplant Rollantini",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Stuffed Shells",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Meat Ravioli",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Broccoli Ravioli",
+            "price": "$12.00"
+        },
+        {
+            "name": "Baked Spinach Ravioli",
+            "price": "$12.00"
+        },
+        {
+            "name": "Chicken Club and Fries Combo Special #1",
+            "description": "Chicken club, fries and a large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Chicken Fingers Combo Special #2",
+            "description": "Chicken fingers and a large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Cheeseburger and Fries Combo Special #3",
+            "description": "Cheeseburger, fries and a large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Philly Steak and Fries Combo Special #4",
+            "description": "Philly steak, fries and a large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Grilled Gyro and Fries Combo Special #5",
+            "description": "Grilled gyro, lettuce, tomato, fries and a large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Wrap and Fries Combo Special #6",
+            "description": "Your choice of wrap, fries and large soda.",
+            "price": "$12.00"
+        },
+        {
+            "name": "Canned Soda",
+            "price": "$2.00"
+        },
+        {
+            "name": "20 oz. Bottled Soda",
+            "price": "$2.50"
+        },
+        {
+            "name": "Tropicana Orange Juice",
+            "description": "1 pint.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Fountain Soda",
+            "price": "$1.50"
+        },
+        {
+            "name": "Snapple",
+            "price": "$2.75"
+        },
+        {
+            "name": "Nantucket Drinks",
+            "description": "Please call restaurant for flavor selection.",
+            "price": "$2.75"
+        },
+        {
+            "name": "Vitamin Water",
+            "price": "$2.50"
+        },
+        {
+            "name": "16.9 oz. Poland Spring Water",
+            "price": "$2.00"
+        },
+        {
+            "name": "Smart Water",
+            "price": "$2.75"
+        },
+        {
+            "name": "Pellegrino",
+            "price": "$2.75"
+        },
+        {
+            "name": "Red Bull",
+            "price": "$3.50"
+        },
+        {
+            "name": "Jalapeno Poppers Tray",
+            "price": "$45.00"
+        },
+        {
+            "name": "Onion Rings Tray",
+            "price": "$35.00"
+        },
+        {
+            "name": "Chicken Fingers Tray",
+            "price": "$50.00"
+        },
+        {
+            "name": "Mozzarella Sticks Tray",
+            "price": "$45.00"
+        },
+        {
+            "name": "Calamari Rings Tray",
+            "description": "Hand-breaded in house and served with our marinara sauce.",
+            "price": "$55.00"
+        },
+        {
+            "name": "Buffalo Wings Tray",
+            "price": "$55.00"
+        },
+        {
+            "name": "Garden Salad Tray",
+            "description": "Tossed salad with tomatoes, garden vegetables and green olives.",
+            "price": "$30.00"
+        },
+        {
+            "name": "Caesar Salad Tray",
+            "description": "Romaine lettuce topped with croutons and Caesar dressing.",
+            "price": "$35.00"
+        },
+        {
+            "name": "Grilled Chicken Caesar Salad Tray",
+            "price": "$45.00"
+        },
+        {
+            "name": "Lemon Grilled Chicken Salad Tray",
+            "description": "Lemon grilled chicken over romaine.",
+            "price": "$45.00"
+        },
+        {
+            "name": "U-Pick Salad Tray",
+            "price": "$45.00"
+        },
+        {
+            "name": "Catering Midtown Hero",
+            "description": "Turkey, bacon, lettuce, tomato and American cheese.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Catering Times Square Hero",
+            "description": "Turkey, salami, American cheese, lettuce, tomato and Italian dressing.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Catering The Italian Job Hero",
+            "description": "Ham, salami, lettuce, tomato, mozzarella cheese and Italian dressing.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Catering Crispy Chicken Hero",
+            "description": "Served with lettuce, tomato and mayo.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Chicken Parmigiana Tray",
+            "description": "Crispy or grilled chicken breast with tomato sauce and mozzarella cheese.",
+            "price": "$65.00"
+        },
+        {
+            "name": "Chicken Marsala Tray",
+            "description": "Chicken sauteed in Marsala wine and fresh mushrooms.",
+            "price": "$65.00"
+        },
+        {
+            "name": "Lemon Chicken Tray",
+            "price": "$65.00"
+        },
+        {
+            "name": "Chicken Francese Tray",
+            "price": "$65.00"
+        },
+        {
+            "name": "Chicken Cordon Bleu Tray",
+            "price": "$65.00"
+        },
+        {
+            "name": "Chicken with Vodka Sauce Tray",
+            "price": "$65.00"
+        },
+        {
+            "name": "Eggplant Parmigiana Tray",
+            "price": "$55.00"
+        },
+        {
+            "name": "Sausage and Peppers Tray",
+            "price": "$60.00"
+        },
+        {
+            "name": "Meatball Parmigiana Tray",
+            "price": "$60.00"
+        },
+        {
+            "name": "Italian Sausage Parmigiana Tray",
+            "price": "$60.00"
+        },
+        {
+            "name": "Sauteed Vegetables Tray",
+            "description": "Zucchini, cauliflower, mushrooms, broccoli and marinara sauce.",
+            "price": "$45.00"
+        },
+        {
+            "name": "Shrimp with Vodka Sauce Tray",
+            "price": "$90.00"
+        },
+        {
+            "name": "Baked Stuffed Shells Tray",
+            "description": "Stuffed with ricotta and topped with mozzarella.",
+            "price": "$51.00"
+        },
+        {
+            "name": "Baked Ravioli Tray",
+            "description": "Stuffed with ricotta and topped with mozzarella.",
+            "price": "$51.00"
+        },
+        {
+            "name": "Baked Ziti Tray",
+            "description": "Ziti with ricotta, tomato sauce and mozzarella cheese topping.",
+            "price": "$51.00"
+        },
+        {
+            "name": "Baked Home-Style Lasagna Tray",
+            "description": "Ricotta cheese, ground beef and tomato sauce with cheese.",
+            "price": "$56.00"
+        },
+        {
+            "name": "Baked Manicotti Tray",
+            "description": "Baked manicotti with mozzarella cheese topping.",
+            "price": "$51.00"
+        },
+        {
+            "name": "Spinach Ravioli Tray",
+            "description": "Baked spinach ravioli and topped with mozzarella cheese.",
+            "price": "$56.00"
+        },
+        {
+            "name": "Eggplant Rollatini Tray",
+            "description": "Baked eggplant rollatini with a mozzarella cheese topping.",
+            "price": "$56.00"
+        },
+        {
+            "name": "Sandwich Platter",
+            "description": "A variety of our delicious sandwiches served either hot or cold.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Cold Cut Platter",
+            "description": "An assortment of cold cut sandwiches.",
+            "price": "$50.00"
+        },
+        {
+            "name": "The Philly Platter",
+            "description": "Philly cheesesteak sandwiches cut small on a hero with onions, peppers and American cheese.",
+            "price": "$50.00"
+        },
+        {
+            "name": "The Wrap Platter",
+            "description": "Your choice of wrap from our menu served either hot or cold.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Grilled Chicken Hero Platter",
+            "description": "Your choice of grilled chicken hero from our hero menu.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Traditional Italian Tomato Sauce Pasta Tray",
+            "description": "Rich tomato sauce made from imported Italian tomatoes.",
+            "price": "$35.00"
+        },
+        {
+            "name": "Pasta with Meatballs Tray",
+            "description": "Served with our home-style tomato sauce.",
+            "price": "$40.00"
+        },
+        {
+            "name": "Pasta with Sausage Tray",
+            "description": "Served with our home-style tomato sauce.",
+            "price": "$40.00"
+        },
+        {
+            "name": "Pasta with Bolognese Tray",
+            "description": "Meat sauce. Ground beef in our home-style tomato sauce.",
+            "price": "$40.00"
+        },
+        {
+            "name": "Pasta with Marinara Tray",
+            "description": "Tomato sauce sauteed in garlic and olive oil.",
+            "price": "$40.00"
+        },
+        {
+            "name": "Pasta with Garlic and Oil Tray",
+            "description": "Made with garlic cloves and olive oil.",
+            "price": "$40.00"
+        },
+        {
+            "name": "Pasta with Broccoli Tray",
+            "description": "Sauteed in garlic and olive oil.",
+            "price": "$45.00"
+        },
+        {
+            "name": "Pasta with Spinach Tray",
+            "description": "Sauteed in garlic and olive oil.",
+            "price": "$45.00"
+        },
+        {
+            "name": "Pasta alla Vodka Tray",
+            "price": "$45.00"
+        },
+        {
+            "name": "Pasta with Clam Sauce Tray",
+            "description": "Clams made with your choice of sauce.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Pasta with Grilled Chicken and Broccoli Tray",
+            "description": "Sauteed in garlic and olive oil or marinara sauce.",
+            "price": "$50.00"
+        },
+        {
+            "name": "Chicken Alfredo Pasta Tray",
+            "description": "Sauteed in our homemade Alfredo sauce.",
+            "price": "$55.00"
+        },
+        {
+            "name": "Pasta Alfredo Tray",
+            "price": "$45.00"
+        }
+    ]
+}

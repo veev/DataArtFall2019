@@ -1,0 +1,256 @@
+{
+    "name": "Rose's Pizza",
+    "phone": null,
+    "restaurant_id": "roses-pizza-and-pasta-new-york",
+    "menu": [
+        {
+            "name": "20 oz. Fountain Soda",
+            "description": "Pick up only.",
+            "price": "$2.50"
+        },
+        {
+            "name": "20 oz. Bottle Soda",
+            "price": "$2.75"
+        },
+        {
+            "name": "20 oz. Dasani Bottled Water",
+            "description": "Dasani.",
+            "price": "$2.50"
+        },
+        {
+            "name": "Vitamin Water",
+            "description": "Please call restaurant for available flavors.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Powerade 20 oz. Bottle",
+            "price": "$3.00"
+        },
+        {
+            "name": "Fuze Bottle",
+            "description": "Call restaurant for available flavors.",
+            "price": "$2.50"
+        },
+        {
+            "name": "Gold Peak Tea Bottle",
+            "description": "Call restaurant for available flavors.",
+            "price": "$2.50"
+        },
+        {
+            "name": "Smart Water",
+            "price": "$3.00"
+        },
+        {
+            "name": "Eggplant Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Pepperoni Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Spinach Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Broccoli Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Sausage and Pepper Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Chicken Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Cheese Calzone",
+            "price": "$7.50"
+        },
+        {
+            "name": "Stromboli",
+            "price": "$6.95"
+        },
+        {
+            "name": "5 Garlic Knots",
+            "price": "$3.00"
+        },
+        {
+            "name": "White Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "White with Broccoli Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "White with Spinach Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "BBQ Chicken Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Tomato Garlic Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Chicken Tomato Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Buffalo Chicken Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Margarita Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Chicken with Broccoli Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Chicken Ricotta Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Cheese Pizza Pie",
+            "price": "$19.95"
+        },
+        {
+            "name": "Rosa's Red Sicilian Pizza Pie",
+            "price": "$21.95"
+        },
+        {
+            "name": "Sicilian Pizza Pie",
+            "price": "$21.95"
+        },
+        {
+            "name": "Sausage Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Mushroom Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Pepperoni Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Vegetable Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Eggplant Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Meatball Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Fresh Mozzarella Pizza Pie",
+            "price": "$24.95"
+        },
+        {
+            "name": "Peppers and Onion Pizza Pie",
+            "price": "$22.95"
+        },
+        {
+            "name": "Grandma Pizza Pie",
+            "price": "$21.95"
+        },
+        {
+            "name": "Slice of White Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of White with Broccoli Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of White with Spinach Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of BBQ Chicken Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Tomato Garlic Pizza",
+            "price": "$4.25"
+        },
+        {
+            "name": "Slice of Chicken Tomato Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Chicken Ricotta Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Buffalo Chicken Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Margarita Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Chicken with Broccoli Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Cheese Pizza",
+            "price": "$3.50"
+        },
+        {
+            "name": "Slice of Rosa's Red Sicilian Pizza",
+            "price": "$3.95"
+        },
+        {
+            "name": "Slice of Sicilian Pizza",
+            "price": "$3.95"
+        },
+        {
+            "name": "Slice of Slice of Sausage Pizza",
+            "price": "$4.50"
+        },
+        {
+            "name": "Slice of Mushroom Pizza",
+            "price": "$4.50"
+        },
+        {
+            "name": "Slice of Pepperoni Pizza",
+            "price": "$4.50"
+        },
+        {
+            "name": "Slice of Vegetable Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Eggplant Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Meatball Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Fresh Mozzarella Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Peppers and Onion Pizza",
+            "price": "$4.75"
+        },
+        {
+            "name": "Slice of Grandma Pizza",
+            "price": "$3.95"
+        }
+    ]
+}

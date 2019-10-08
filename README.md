@@ -118,16 +118,13 @@ October 1st – Week 5. Topic survey & technical workshop (RiTA) - [slides shown
 **Assignment**
 * **Archival Annotation:** Using an archive of your choosing, create a piece that calls attention to the underlying logic behind the archive
 * Due Week 7, October 22nd. Documentation should be posted and a link emailed before class begins
-* Two students prepare to present the readings for next week:
+* Four students prepare to present the readings for next week:
   * [Consider the Boolean,](https://source.opennews.org/articles/consider-boolean) Jacob Harris
   * ["facts and FACTS": Abolitionists’ Database,](https://github.com/veev/DataArtFall2019/blob/master/readings/Garvey_facts_and_FACTS_AbolitionistsDatabase.pdf) Ellen Gruber Garvey
-
-October 8th – Week 6. Discussion of readings & overview of other resources (puppeteer.js)
-
-**Assignment**
-* Two students prepare to present the readings for next week:
   * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
   * [Abundant Images and the Collective Sublime,](http://circulationexchange.org/articles/abundantimages.html) Kate Palmer Albers
+
+October 8th – Week 6. Discussion of readings & overview of other resources (puppeteer.js) - [slides shown in class](https://drive.google.com/open?id=1vHIGXRGVMdnqacKkXodLORWKXVpjOxrw)
 
 October 15th - NO CLASS, Legislative Day
 

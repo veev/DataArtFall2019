@@ -1,0 +1,212 @@
+{
+    "name": "Little Italy Pizza",
+    "phone": "(212) 481-5200",
+    "restaurant_id": "little-italy-pizza-new-york-7",
+    "menu": [
+        {
+            "name": "20 oz. Soda",
+            "price": "$2.25"
+        },
+        {
+            "name": "2 Liter Soda",
+            "price": "$3.95"
+        },
+        {
+            "name": "20 oz. Dasani",
+            "price": "$2.00"
+        },
+        {
+            "name": "Snapple",
+            "price": "$2.50"
+        },
+        {
+            "name": "Cheese Slice",
+            "price": "$2.95"
+        },
+        {
+            "name": "Grandma Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Sicilian Red Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Sicilian White Slice",
+            "price": "$3.50"
+        },
+        {
+            "name": "Sausage Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Pepperoni Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Mushroom Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Baked Ziti Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Fresh Mozzarella Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "White Broccoli Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Meatball Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Peppers and Onions Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Vegetables Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "White Spinach Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Chicken Ricotta Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Chicken Tomato Slice",
+            "price": "$3.95"
+        },
+        {
+            "name": "Chicken bacon ranch slice",
+            "price": "$4.95"
+        },
+        {
+            "name": "Cheese Pizza",
+            "price": "$20.00"
+        },
+        {
+            "name": "Grandma Pizza",
+            "price": "$22.00"
+        },
+        {
+            "name": "Sicilian Red Pizza",
+            "price": "$22.00"
+        },
+        {
+            "name": "Sicilian White Pizza",
+            "price": "$22.00"
+        },
+        {
+            "name": "Sausage Pizza",
+            "price": "$23.00"
+        },
+        {
+            "name": "Pepperoni Pizza",
+            "price": "$23.00"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "price": "$23.00"
+        },
+        {
+            "name": "Baked Ziti Pizza",
+            "price": "$23.00"
+        },
+        {
+            "name": "Fresh Mozzarella Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "White Broccoli Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Meatball Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Peppers and Onions Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Vegetables Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "White Spinach Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Chicken Ricotta Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Chicken Tomato Pizza",
+            "price": "$25.00"
+        },
+        {
+            "name": "Spicy pepperoni Sicilian pizza",
+            "description": "Made of fresh mozzarella cheese,marinara sauce,Parmesan ,oil, spicy pepperoni.",
+            "price": "$28.00"
+        },
+        {
+            "name": "Chicken bacon ranch pizza",
+            "price": "$28.00"
+        },
+        {
+            "name": "Eggplant Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Pepperoni Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Spinach Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Broccoli Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Sausage and Peppers Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Chicken Roll",
+            "price": "$6.50"
+        },
+        {
+            "name": "Cheese Calzone",
+            "price": "$6.50"
+        },
+        {
+            "name": "Ham and Cheese Calzone",
+            "price": "$6.50"
+        },
+        {
+            "name": "Stromboli Roll",
+            "price": "$7.50"
+        },
+        {
+            "name": "Garlic Knots",
+            "price": "$4.00"
+        },
+        {
+            "name": "Small Caesar",
+            "price": "$5.99"
+        },
+        {
+            "name": "Small house",
+            "price": "$6.99"
+        }
+    ]
+}

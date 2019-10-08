@@ -1,0 +1,1095 @@
+{
+    "name": "Lazzara's Pizza",
+    "phone": "(212) 944-7792",
+    "restaurant_id": "lazzaras-pizza-new-york",
+    "menu": [
+        {
+            "name": "Crispy Garlic Squares",
+            "price": "$7.95"
+        },
+        {
+            "name": "Mozzarella Sticks",
+            "description": "Tomato Sauce",
+            "price": "$8.95"
+        },
+        {
+            "name": "Fried Ravioli",
+            "description": "Tomato Sauce",
+            "price": "$8.95"
+        },
+        {
+            "name": "Chicken Wings",
+            "description": "Blue Cheese Dressing",
+            "price": "$9.95"
+        },
+        {
+            "name": "Fried Zucchini",
+            "description": "With tomato sauce",
+            "price": "$9.95"
+        },
+        {
+            "name": "Mozzarella Carozza",
+            "description": "Bread and mozzarella, egg-battered, fried and served with tomato sauce",
+            "price": "$9.95"
+        },
+        {
+            "name": "Chicken Tenders",
+            "description": "Honey Mustard Sauce",
+            "price": "$10.95"
+        },
+        {
+            "name": "Fried Calamari",
+            "description": "With tomato sauce",
+            "price": "$12.95"
+        },
+        {
+            "name": "Eggplant Rollatini (3)",
+            "description": "Eggplant rolled with mozzarella, ricotta and parmesan cheese",
+            "price": "$12.95"
+        },
+        {
+            "name": "Grilled Vegetables",
+            "description": "With zucchini, eggplants, mushrooms & tomatoes",
+            "price": "$12.95"
+        },
+        {
+            "name": "Eggplant Napoleon",
+            "description": "Grilled eggplant, fresh plum tomatoes, pignoli nuts, extra virgin olive oil and goat cheese",
+            "price": "$12.95"
+        },
+        {
+            "name": "Fresh Tossed Salad",
+            "description": "Romaine and iceberg lettuce with red cabbage, celery and fresh plum tomatoes",
+            "price": [
+                {
+                    "description": "Sm.\t",
+                    "amount": "$4.95"
+                },
+                {
+                    "description": "\t",
+                    "amount": "$8.95"
+                }
+            ]
+        },
+        {
+            "name": "Tomato & Red Onion Salad",
+            "description": "With chopped basil and extra virgin olive oil",
+            "price": "$10.95"
+        },
+        {
+            "name": "Organic Baby Greens",
+            "description": "Fresh plum tomatoes in a balsamic vinaigrette",
+            "price": "$10.95"
+        },
+        {
+            "name": "Lazzara's Salad",
+            "description": "Lush green salad with sun-dried tomatoes, fresh mushrooms, black olives, fresh plum tomatoes and pepperoncini",
+            "price": "$12.95"
+        },
+        {
+            "name": "Caesar Salad",
+            "description": "Romaine lettuce and croutons in a Caesar dressing",
+            "price": "$12.95"
+        },
+        {
+            "name": "Roasted Peppers, Fresh Mozzarella and Fresh Plum Tomatoes",
+            "description": "With chopped basil and extra virgin olive oil",
+            "price": "$13.95"
+        },
+        {
+            "name": "Robyn's Spring Salad",
+            "description": "Baby green salad with walnuts, gorgonzola cheese, raspberry dressing",
+            "price": "$13.95"
+        },
+        {
+            "name": "Autumn Salad",
+            "description": "Baby greens with dried cranberries, slivered almonds and goat cheese with balsamic glaze",
+            "price": "$13.95"
+        },
+        {
+            "name": "Sicilian Salad",
+            "description": "Fresh salad with fresh plum tomatoes, sun-dried tomatoes, fresh mozzarella, marinated olives and pepperoncini",
+            "price": "$13.95"
+        },
+        {
+            "name": "Antipasto Salad",
+            "description": "A fresh salad with ham, salami, prosciutto, fresh mozzarella, marinated olives, pepperoncini and roasted peppers",
+            "price": "$14.95"
+        },
+        {
+            "name": "Lazzara's Special",
+            "description": "Prosciutto, Sun-dried Tomatoes and Olives",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Alorna",
+            "description": "Mushroom, Peppers, Ground Beef and Sausage",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Pizza Primavera",
+            "description": "Spinach, Broccoli, Mushrooms, Peppers and Onions",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Chicken Florentine",
+            "description": "Sliced Chicken with Sautéed Spinach",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian's Seafood",
+            "description": "Sautéed Garlic with Shrimps, Clams and Calamari",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "John's Special",
+            "description": "Mushrooms, Peppers and Pepperoni",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Margo's Mexicana",
+            "description": "Ground Beef, Jalapeno and Onions",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Harris' Special",
+            "description": "Meatball, Sausage & Pepperoni",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$12.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$24.00"
+                }
+            ]
+        },
+        {
+            "name": "Margarita",
+            "description": "Fresh Mozzarella, Fresh Tomatoes and Fresh Basil",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Classica",
+            "description": "Pepperoni and Fresh Mushrooms",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Lasagna",
+            "description": "Ground Beef, Ricotta and Italian Seasoning",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Hawaiian Pizza",
+            "description": "Sliced Ham with Pineapples",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Heroine Light",
+            "description": "Sautéed Spinach and Black Olives",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Pizza Bianco",
+            "description": "Ricotta and Mozzarella (with or without sauce)",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Tony's Anchovies with a Twist",
+            "description": "Sautéed Onions and Anchovies",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Danny's Delight",
+            "description": "Sautéed Onions and Potatoes",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$11.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$22.00"
+                }
+            ]
+        },
+        {
+            "name": "Mozzarella and Ricotta Cheese Calzone",
+            "price": "$8.00"
+        },
+        {
+            "name": "Sautéed Spinach Calzone",
+            "price": "$8.00"
+        },
+        {
+            "name": "Sautéed Broccoli Calzone",
+            "price": "$8.00"
+        },
+        {
+            "name": "Ham, Mozzarella and Ricotta Cheese Calzone",
+            "price": "$9.00"
+        },
+        {
+            "name": "Sausage and Pepper Rolls",
+            "price": "$9.00"
+        },
+        {
+            "name": "Meatball Parmigiana Rolls",
+            "price": "$9.00"
+        },
+        {
+            "name": "Chicken Parmigiana Rolls",
+            "price": "$9.00"
+        },
+        {
+            "name": "Regular Cheese Pizza",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$8.75"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$17.50"
+                }
+            ]
+        },
+        {
+            "name": "Extra Cheese",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Fresh Tomatoes",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Sautéed Spinach",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Sautéed Broccoli",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Fresh Mushrooms",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Fresh Bell Peppers",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Jalapenos",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Onions",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Garlic",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Sliced Olives",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Anchovies",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Pizza w/ Vodka Sauce",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.00"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$20.00"
+                }
+            ]
+        },
+        {
+            "name": "Sausage*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Meatball*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Pineapples*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Pepperoni*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Sun-Dried Tomatoes*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Salami*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Ham*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Grilled Eggplant*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Roasted Peppers*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Fresh Salad Pie*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Shrimp*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Clams*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Prosciutto*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Grilled Chicken*",
+            "price": [
+                {
+                    "description": "Half\t",
+                    "amount": "$10.50"
+                },
+                {
+                    "description": "Whole\t",
+                    "amount": "$21.00"
+                }
+            ]
+        },
+        {
+            "name": "Chicken Noodle",
+            "price": [
+                {
+                    "description": "Bowl\t",
+                    "amount": "$5.50"
+                }
+            ]
+        },
+        {
+            "name": "Tortellini in Brodo",
+            "price": [
+                {
+                    "description": "Bowl\t",
+                    "amount": "$5.50"
+                }
+            ]
+        },
+        {
+            "name": "Soup of the Day",
+            "price": [
+                {
+                    "description": "Bowl\t",
+                    "amount": "$6.00"
+                }
+            ]
+        },
+        {
+            "name": "Eggplant Parmigiana",
+            "price": "$11.00"
+        },
+        {
+            "name": "Meatball Parmigiana",
+            "price": "$12.00"
+        },
+        {
+            "name": "Sausage & Peppers",
+            "price": "$12.00"
+        },
+        {
+            "name": "Grilled Chicken",
+            "price": "$12.00"
+        },
+        {
+            "name": "Chicken Parmigiana or Marsala",
+            "price": "$12.00"
+        },
+        {
+            "name": "Shrimp Parmigiana",
+            "price": "$13.00"
+        },
+        {
+            "name": "Veal Parmigiana or Marsala",
+            "price": "$13.00"
+        },
+        {
+            "name": "Antipasto",
+            "price": "$13.00"
+        },
+        {
+            "name": "Spaghetti or Rigatoni Marinara",
+            "description": "Chopped tomatoes and garlic in extra virgin olive oil",
+            "price": "$11.95"
+        },
+        {
+            "name": "Penne Pesto",
+            "description": "Fresh basil, olive oil, pignoli nuts and Parmesan cheese",
+            "price": "$11.95"
+        },
+        {
+            "name": "Penne Vodka",
+            "description": "Pasta with puree of onions, garlic, mushrooms and tomatoes in heavy cream",
+            "price": [
+                {
+                    "description": "\t",
+                    "amount": "$13.95"
+                },
+                {
+                    "description": "With Chicken\t",
+                    "amount": "$17.95"
+                },
+                {
+                    "description": "With Shrimp\t",
+                    "amount": "$18.95"
+                }
+            ]
+        },
+        {
+            "name": "Cavatelli con Broccoli",
+            "description": "Sauteed broccoli in garlic and oil",
+            "price": "$13.95"
+        },
+        {
+            "name": "Tortellini Pink Sauce",
+            "description": "Pasta filled with cheese in light cream sauce, tomatoes and garlic",
+            "price": "$13.95"
+        },
+        {
+            "name": "Ravioli Marinara",
+            "description": "Pasta filled with cheese and cooked with chopped tomatoes and garlic in extra virgin olive oil",
+            "price": "$13.95"
+        },
+        {
+            "name": "Fettuccine Alfredo",
+            "description": "Light cream sauce with Parmesan cheese",
+            "price": "$14.95"
+        },
+        {
+            "name": "Rigatoni Emiliana",
+            "description": "Pancetta, mushroom & peas in a pink sauce",
+            "price": "$15.95"
+        },
+        {
+            "name": "Gnocchi Bolognese",
+            "description": "Potato dumplings in a meat sauce with a touch of cream",
+            "price": "$15.95"
+        },
+        {
+            "name": "Linguine Carbonara",
+            "description": "Prosciutto and onions in a cream sauce",
+            "price": "$15.95"
+        },
+        {
+            "name": "Tortellini Michaelangelo",
+            "description": "Chicken and prosciutto in a cream sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Ravioli Pesce",
+            "description": "Lobster and ricotta filled ravioli with baby shrimps in marinara sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Linguini Mediterranean",
+            "description": "Sauteed shrimps, calamari, fresh tomatoes and garlic",
+            "price": "$17.95"
+        },
+        {
+            "name": "Baked Eggplant Parmigiana",
+            "description": "With baked mozzarella in tomato sauce",
+            "price": "$14.95"
+        },
+        {
+            "name": "Chicken Alysa",
+            "description": "Artichokes, garlic and fresh tomatoes in white wine sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Chicken Lazzara",
+            "description": "White wine, marsala wine, olives and shiitake mushrooms in a light brown sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Chicken, Veal or Shrimp Marsala",
+            "description": "Mushrooms and Marsala wine in a brown sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Chicken, Veal or Shrimp Parmigiana",
+            "description": "Baked mozzarella in tomato sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Calamari Marinara",
+            "description": "Garlic and scallions in a tomato sauce",
+            "price": "$16.95"
+        },
+        {
+            "name": "Tilapia Livornese",
+            "description": "Sauteed onions, scallions and basil in a white wine tomato sauce",
+            "price": "$17.95"
+        },
+        {
+            "name": "Veal Sorrentino",
+            "description": "Sliced eggplant, tomatoes and mozzarella in a sherry wine sauce",
+            "price": "$18.95"
+        },
+        {
+            "name": "Shrimp Scampi",
+            "description": "Garlic, lemon and white wine sauce",
+            "price": "$18.95"
+        },
+        {
+            "name": "Sauteed Broccoli",
+            "price": "$7.95"
+        },
+        {
+            "name": "Sauteed Spinach",
+            "price": "$7.95"
+        },
+        {
+            "name": "Sauteed Mushrooms",
+            "price": "$7.95"
+        },
+        {
+            "name": "Linguine, Penne or Rigatoni",
+            "description": "With tomato sauce",
+            "price": "$6.95"
+        },
+        {
+            "name": "Meatballs",
+            "price": "$7.95"
+        },
+        {
+            "name": "Sausage",
+            "price": "$7.95"
+        },
+        {
+            "name": "Grilled Chicken",
+            "price": "$7.95"
+        },
+        {
+            "name": "Grilled Shrimp (5)",
+            "price": "$9.95"
+        },
+        {
+            "name": "Pint of Lazzara's Famous Dressing",
+            "price": "$8.95"
+        },
+        {
+            "name": "Small Tomato Sauce",
+            "price": "$1.00"
+        },
+        {
+            "name": "Cannoli",
+            "price": "$6.95"
+        },
+        {
+            "name": "Cheesecake",
+            "price": "$7.95"
+        },
+        {
+            "name": "Chocolate Mousse Cake",
+            "price": "$7.95"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "$7.95"
+        },
+        {
+            "name": "Pizza Nutella",
+            "description": "With strawberry. Serves 3-4 people",
+            "price": "$14.95"
+        },
+        {
+            "name": "Canned Soda",
+            "price": "$2.25"
+        },
+        {
+            "name": "Fresh Brewed Iced Tea",
+            "price": "$2.25"
+        },
+        {
+            "name": "Spring Water",
+            "price": [
+                {
+                    "description": "Sm.\t",
+                    "amount": "$1.50"
+                },
+                {
+                    "description": "\t",
+                    "amount": "$4.00"
+                }
+            ]
+        },
+        {
+            "name": "Pellegrino",
+            "price": [
+                {
+                    "description": "Sm.\t",
+                    "amount": "$2.25"
+                },
+                {
+                    "description": "\t",
+                    "amount": "$5.50"
+                }
+            ]
+        },
+        {
+            "name": "Snapple Beverages",
+            "price": "$2.50"
+        },
+        {
+            "name": "Juice",
+            "description": "Orange or Apple",
+            "price": "$2.50"
+        },
+        {
+            "name": "Coffee",
+            "price": "$2.00"
+        },
+        {
+            "name": "Tea",
+            "price": "$2.00"
+        },
+        {
+            "name": "Iced Coffee",
+            "price": "$3.00"
+        },
+        {
+            "name": "Hot Chocolate",
+            "price": "$3.00"
+        },
+        {
+            "name": "Espresso",
+            "price": "$3.00"
+        },
+        {
+            "name": "Decaf Espresso",
+            "price": "$3.25"
+        },
+        {
+            "name": "Cappuccino",
+            "price": "$4.00"
+        },
+        {
+            "name": "Decaf Cappuccino",
+            "price": "$4.25"
+        },
+        {
+            "name": "Iced Cappuccino",
+            "price": "$4.50"
+        },
+        {
+            "name": "Decaf Iced Cappuccino",
+            "price": "$4.75"
+        },
+        {
+            "name": "Corona"
+        },
+        {
+            "name": "Budweiser"
+        },
+        {
+            "name": "Coors Light"
+        },
+        {
+            "name": "Heineken"
+        },
+        {
+            "name": "Peroni"
+        },
+        {
+            "name": "Samuel Adams"
+        },
+        {
+            "name": "1 Tray Tossed Salad",
+            "description": "With Vinaigrette Dressing",
+            "price": "$40.00"
+        },
+        {
+            "name": "1 Tray Penne alla Vodka",
+            "price": "$50.00"
+        },
+        {
+            "name": "1 Tray Chicken Wings",
+            "description": "With Blue Cheese Dressing",
+            "price": "$50.00"
+        },
+        {
+            "name": "1 Tray Fried Calamari",
+            "description": "With Tomato Sauce and Lemon Wedges",
+            "price": "$55.00"
+        },
+        {
+            "name": "4 Cheese Pies",
+            "price": "$72.00"
+        },
+        {
+            "name": "12 Cans Soda or Spring Water",
+            "price": "$27.00"
+        }
+    ]
+}

@@ -6,7 +6,7 @@ const puppeteer = require('puppeteer')
 
 async function getTimes() {
   // essentially launching our own version of Chrome, setting it equal to the variable browser
-  const browser = await puppeteer.launch()
+  const browser = await puppeteer.launch({ headless: false })
   // set headless browser to false to see the program in action
   // const browser = await puppeteer.launch({ headless: false })
   // open a new page in the browser and assign it to the variable page
