@@ -128,12 +128,13 @@ October 8th – Week 6. Discussion of readings & overview of other resources (pu
 
 October 15th - NO CLASS, Legislative Day
 
-October 22nd – Week 7. Guest Speaker TBD & Project presentations
+October 22nd – Week 7. Guest Speaker [Sarah Groff Hennigh-Palermo](http://sarahgp.com/) & Project presentations
 
 ### Data & Publics
 
 **Readings:**
 * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
+* [When Maps Lie,](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) Andrew Wiseman
 * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
 * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
@@ -146,6 +147,7 @@ October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
 
 * Four students prepare to present the readings for next week:
   * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
+  * [When Maps Lie,](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) Andrew Wiseman
   * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
   * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
   * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
