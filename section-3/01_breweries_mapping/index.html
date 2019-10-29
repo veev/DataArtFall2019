@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Mobile phones</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidmVldiIsImEiOiIzdzVEVDdrIn0.z3N2X1Fk7rx4wXesVf0-rQ' // add your own mapbox token to make this example work
+
+// first thing, declare your map object
+// the div id where you want to put the map should match the value for the container
+// all maps need a style, see default options through mapbox studio or style your own
+// define a center and zoom level, and additional arguments as desired
+const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v9',
+    center: [ -99, 38 ], // starting position [lng, lat]
+    minZoom: 2,
+    zoom: 4
+})
+
+// load geojson data once base map has loaded
+map.on('load', () => {
+console.log('loaded map')
+
+    // load data with d3 (just my preference, load it another way if you prefer)
+    d3.json('../data/breweries_us.geojson').then(data => {
+      console.log(data)
+
+      // map needs source data before it can show anything. source needs an id, type and data
+      map.addSource('breweries', { type: 'geojson', data: data })
+
+      // map layer styles the source. see the mapbox style specification for syntax. 
+      // layer needs an id, type, source and a style
+      map.addLayer({
+        'id': 'breweries-layer',
+        'type': 'circle',
+        'source': 'breweries',
+        'paint': {
+          'circle-color': '#088',
+          'circle-radius': 4,
+          'circle-opacity': 0.6
+        }
+      })
+
+      const popup = new mapboxgl.Popup()
+
+      // add interactivity to see a popup with info about a district
+      map.on('mousemove', 'breweries-layer', (e) => {
+        
+        popup.setLngLat(e.lngLat)
+          .setHTML(e.features[0].properties.brewery_name)
+          .addTo(map);
+      })
+
+      map.on('mouseenter', 'breweries-layer', () => {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer'
+      })
+
+      map.on('mouseleave', 'breweries-layer', () => {
+        // Change the cursor style back as a UI indicator.
+        map.getCanvas().style.cursor = ''
+        popup.remove()
+      })
+
+    }).catch(e => {
+      console.log(e)
+    })
+})
+
+</script>
+
+</body>
+</html>
