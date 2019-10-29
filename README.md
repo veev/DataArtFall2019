@@ -139,7 +139,7 @@ October 22nd – Week 7. Guest Speaker [Sarah Groff Hennigh-Palermo](http://sara
 * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
-October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Data)
+October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Data) - [slides shown in class](https://drive.google.com/open?id=1s9c4jMifePHWNTzcM8Vk6AWZSOjecjHw)
 
 **Assignment**
 * **Spatial Data Practice:** Explore the relationship between landscape, data and publics by intervening in public space with data OR representing spatial data through mapping or visualization.
