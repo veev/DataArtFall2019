@@ -3,7 +3,7 @@ const axios = require('axios') // this let's us make API calls with async/await
 
 //Mapbox Geocoder API stuff
 const BASE_URL = 'https://api.tiles.mapbox.com/v4/geocode/'
-const ACCESS_TOKEN = 'pk.eyJ1IjoidmVldiIsImEiOiIzdzVEVDdrIn0.z3N2X1Fk7rx4wXesVf0-rQ' //'YOUR MAPBOX PUBLIC TOKEN'
+const ACCESS_TOKEN = '' //'YOUR MAPBOX PUBLIC TOKEN'
 const dataset = 'mapbox.places' // temporary geocoder
 
 // use axios to call the Mapbox Geocoder API asynchronously and return the response.data
