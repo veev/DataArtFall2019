@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<style type="text/css">
+
+/* On mouse hover, lighten state color */
+path:hover {
+	fill-opacity: .7;
+
+}
+/* Style for Custom Tooltip */
+div.tooltip {   
+ 	position: absolute;           
+	text-align: center;           
+	width: 60px;                  
+	/* height: 28px;                  */
+	padding: 2px;             
+	font: 12px sans-serif;        
+	background: white;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none;         
+}
+        
+/* Legend Font Style */
+body {
+	font: 11px sans-serif;
+}
+        
+/* Legend Position Style */
+.legend {
+	position:absolute;
+	left:800px;
+	top:350px;
+}
+
+</style>
+</head>
+<body>
+<script type="text/javascript">
+
+/*  This visualization was made possible by modifying code provided by:
+
+Scott Murray, Choropleth example from "Interactive Data Visualization for the Web" 
+https://github.com/alignedleft/d3-book/blob/master/chapter_12/05_choropleth.html   
+		
+Malcolm Maclean, tooltips example tutorial
+http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
+
+*/
+
+		
+//Width and height of map
+const width = 960;
+const height = 500;
+
+// D3 Projection
+const projection = d3.geoAlbersUsa()
+				   .translate([width/2, height/2])    // translate to center of screen
+				   .scale([1000]);          // scale things down so see entire US
+        
+// Define path generator
+const path = d3.geoPath()               // path generator that will convert GeoJSON to SVG paths
+		  	 .projection(projection);  // tell path generator to use albersUsa projection
+
+		
+// Define linear scale for output
+const color = d3.scaleLinear()
+			  .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"])
+
+const lowColor = '#f9f9f9'
+const highColor = '#bc2a66'
+
+//Create SVG element and append map to the SVG
+const svg = d3.select("body")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height);
+        
+// Append Div for tooltip to SVG
+const div = d3.select("body")
+		    .append("div")   
+    		.attr("class", "tooltip")               
+    		.style("opacity", 0);
+
+// load multiple files with Promises, since we also need the outlines of states which mapbox hosts
+Promise.all([
+    d3.json('../data/breweries_us.geojson'),
+    d3.json('https://docs.mapbox.com/mapbox-gl-js/assets/us_states.geojson')
+]).then(data => {
+ 
+    const breweries = data[0]
+    const states = data[1]
+
+    console.log(breweries)
+    console.log(states)
+
+    // we need to get the number of breweries per state from our breweries geojson into the states geojson
+    states.features.forEach( state => {
+        breweries.features.forEach( brewery => {
+            // if (brewery.properties.brewery_name.includes('Magnolia')) {
+            //   console.log(brewery.properties)
+            // }
+            if (state.properties.STATE_NAME.toLowerCase().replace(' ', '-') === brewery.properties.state) {
+                state.properties.numBreweries = +brewery.properties.state_breweries
+                return
+            }
+            if (state.properties.STATE_NAME === 'Mississippi') {
+                // mississippi is missing from the brewery dataset!
+                state.properties.numBreweries = 0
+            }
+        })
+    })
+    console.log(states)
+
+    const minNum = d3.min(states.features, d => d.properties.numBreweries)
+    const maxNum = d3.max(states.features, d => d.properties.numBreweries)
+    console.log(minNum, maxNum)
+
+	const colorScale = d3.scaleLinear()
+                        .domain([minNum, maxNum])
+                        .range([lowColor, highColor])
+
+    // Bind the data to the SVG and create one path per GeoJSON feature
+    svg.selectAll("path")
+        .data(states.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+        .style("stroke", "#fff")
+        .style("stroke-width", "1")
+        .style("fill", d => { return colorScale(d.properties.numBreweries)})
+        // fade in tooltip on mousemove over path features
+        .on("mousemove", function(d) {      
+            div.transition()        
+            .duration(200)      
+            .style("opacity", .9);      
+            div.text(d.properties.STATE_NAME + ': ' + d.properties.numBreweries)
+            .style("left", (d3.mouse(this)[0] - 36) + "px")     
+            .style("top", (d3.mouse(this)[1] - 28) + "px");   
+        })   
+        // fade out tooltip on mouse out               
+        .on("mouseout", function(d) {       
+            div.transition()        
+            .duration(500)      
+            .style("opacity", 0);   
+        }); 
+    })
+</script>
+</body>
+</html>

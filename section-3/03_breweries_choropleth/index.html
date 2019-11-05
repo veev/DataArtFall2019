@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Mobile phones</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<script>
+mapboxgl.accessToken = '' // add your own mapbox token to make this example work
+
+// first thing, declare your map object
+// the div id where you want to put the map should match the value for the container
+// all maps need a style, see default options through mapbox studio or style your own
+// define a center and zoom level, and additional arguments as desired
+const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v9',
+    center: [ -99, 38 ], // starting position [lng, lat]
+    minZoom: 2,
+    zoom: 4
+})
+
+// load geojson data once base map has loaded
+map.on('load', () => {
+console.log('loaded map')
+
+    // load data with d3 (just my preference, load it another way if you prefer)
+    // load multiple files with Promises, since we also need the outlines of states which mapbox hosts
+    Promise.all([
+      d3.json('../data/breweries_us.geojson'),
+      d3.json('https://docs.mapbox.com/mapbox-gl-js/assets/us_states.geojson')
+    ]).then(data => {
+ 
+      const breweries = data[0]
+      const states = data[1]
+
+      console.log(breweries)
+      console.log(states)
+
+      // we need to get the number of breweries per state from our breweries geojson into the states geojson
+      states.features.forEach( state => {
+        breweries.features.forEach( brewery => {
+          // if (brewery.properties.brewery_name.includes('Magnolia')) {
+          //   console.log(brewery.properties)
+          // }
+          if (state.properties.STATE_NAME.toLowerCase().replace(' ', '-') === brewery.properties.state) {
+            state.properties.numBreweries = +brewery.properties.state_breweries
+            return
+          }
+          if (state.properties.STATE_NAME === 'Mississippi') {
+            // mississippi is missing from the brewery dataset!
+            state.properties.numBreweries = 0
+          }
+        })
+      })
+      console.log(states)
+
+      const maxNum = d3.max(states.features, d => d.properties.numBreweries)
+      console.log(maxNum)
+
+      // map needs source data before it can show anything. source needs an id, type and data
+      map.addSource('state-breweries', { type: 'geojson', data: states })
+
+      // map layer styles the source. see the mapbox style specification for syntax. 
+      // layer needs an id, type, source and a style
+      map.addLayer({
+        'id': 'state-breweries-layer',
+        'type': 'fill',
+        'source': 'state-breweries',
+        'paint': {
+          'fill-color': '#088',
+          'fill-opacity': [
+            'interpolate',
+            ['linear'],
+            ['get', 'numBreweries'],
+            0, 0.0,
+            200, 1
+          ],
+        }
+      })
+
+      const popup = new mapboxgl.Popup()
+
+      // add interactivity to see a popup with info about a district
+      map.on('mousemove', 'state-breweries-layer', (e) => {
+        
+        popup.setLngLat(e.lngLat)
+          .setHTML(e.features[0].properties.STATE_NAME + ': ' + e.features[0].properties.numBreweries + ' Breweries')
+          .addTo(map);
+      })
+
+      map.on('mouseenter', 'state-breweries-layer', () => {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer'
+      })
+
+      map.on('mouseleave', 'state-breweries-layer', () => {
+        // Change the cursor style back as a UI indicator.
+        map.getCanvas().style.cursor = ''
+        popup.remove()
+      })
+
+    }).catch(e => {
+      console.log(e)
+    })
+})
+
+</script>
+
+</body>
+</html>
