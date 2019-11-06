@@ -152,9 +152,9 @@ October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
   * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
   * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 
-November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js)
+November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js) - [slides shown in class](https://drive.google.com/file/d/1l_b-t2gamdf2-W47p5NW9bycY1Kj6kIY/view?usp=sharing)
 
-November 12th – Week 10. Guest Speaker TBD & Project presentations
+November 12th – Week 10. Guest Speaker [Alvin Chang](http://alvinschang.com/) & Project presentations
 
 ### Ethics, Humans & Responsibility
 
