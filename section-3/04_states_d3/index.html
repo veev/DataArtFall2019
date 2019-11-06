@@ -15,7 +15,7 @@ div.tooltip {
  	position: absolute;           
 	text-align: center;           
 	width: 60px;                  
-	/* height: 28px;                  */
+	/* height: 28px;*/
 	padding: 2px;             
 	font: 12px sans-serif;        
 	background: white;   
@@ -57,21 +57,21 @@ const width = 960;
 const height = 500;
 
 // D3 Projection
-const projection = d3.geoAlbersUsa()
+const myProjection = d3.geoAlbersUsa()
 				   .translate([width/2, height/2])    // translate to center of screen
 				   .scale([1000]);          // scale things down so see entire US
         
 // Define path generator
 const path = d3.geoPath()               // path generator that will convert GeoJSON to SVG paths
-		  	 .projection(projection);  // tell path generator to use albersUsa projection
+		  	 .projection(myProjection);  // tell path generator to use albersUsa projection
 
-		
-// Define linear scale for output
-const color = d3.scaleLinear()
-			  .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"])
+	
 
 const lowColor = '#f9f9f9'
 const highColor = '#bc2a66'
+
+const colorScale = d3.scaleLinear()
+                    .range([lowColor, highColor])
 
 //Create SVG element and append map to the SVG
 const svg = d3.select("body")
@@ -119,10 +119,8 @@ Promise.all([
     const maxNum = d3.max(states.features, d => d.properties.numBreweries)
     console.log(minNum, maxNum)
 
-	const colorScale = d3.scaleLinear()
-                        .domain([minNum, maxNum])
-                        .range([lowColor, highColor])
-
+	colorScale.domain([minNum, maxNum])
+                        
     // Bind the data to the SVG and create one path per GeoJSON feature
     svg.selectAll("path")
         .data(states.features)

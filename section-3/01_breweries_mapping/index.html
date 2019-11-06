@@ -50,8 +50,24 @@ console.log('loaded map')
         'source': 'breweries',
         'paint': {
           'circle-color': '#088',
+          'circle-color': [
+            'match',
+            ['get', 'type'],
+            'Brewpub', '#66c2a5',
+            'Brewpub-Closed','#1b9e77',
+            'Microbrewery', '#fc8d62',
+            'Mircobrewery', '#fc8d62',
+            'Microbrewery-Closed', '#d95f02',
+            'RegionalBrewery', '#8da0cb',
+            'ContractBrewery', '#e78ac3',
+            'Contract', '#e78ac3',
+            'BOP-BrewOnPremise', '#a6d854',
+            'BOP-BrewOnPremise-Closed', '#66a61e',
+            '#000',
+            // '#00429d', '#4771b2', '#73a2c6', '#a5d5d8', '#ffffe0', '#ffbcaf', '#f4777f', '#cf3759', '#93003a'
+          ],
           'circle-radius': 4,
-          'circle-opacity': 0.6
+          'circle-opacity': 0.8
         }
       })
 
@@ -59,9 +75,9 @@ console.log('loaded map')
 
       // add interactivity to see a popup with info about a district
       map.on('mousemove', 'breweries-layer', (e) => {
-        
+        console.log(e.features[0].properties)
         popup.setLngLat(e.lngLat)
-          .setHTML(e.features[0].properties.brewery_name)
+          .setHTML(e.features[0].properties.brewery_name + '<br>' + e.features[0].properties.type)
           .addTo(map);
       })
 

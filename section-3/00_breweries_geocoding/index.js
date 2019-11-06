@@ -6,6 +6,41 @@ const BASE_URL = 'https://api.tiles.mapbox.com/v4/geocode/'
 const ACCESS_TOKEN = '' //'YOUR MAPBOX PUBLIC TOKEN'
 const dataset = 'mapbox.places' // temporary geocoder
 
+// const address = "PO Box 4653, Stockton, California, 95204"
+
+// const url = BASE_URL + dataset + '/' + address + '.json?access_token=' + ACCESS_TOKEN
+// console.log(url)
+async function test() {
+    const string = fs.readFileSync('../data/breweries_us.csv', 'utf-8')
+    console.log(string.length)
+    console.log(string[0])
+
+    // split on the newline character to get an array of the csv rows
+    const csv = string.split('\n')
+    // console.log(csv[0])
+    // console.log(csv[1])
+    console.log('the csv has', csv.length, 'rows')
+    const row = csv[1]
+    // split the row by comma to get all the fields
+    // const fields = row.split(',') // this doesn't work as there are commas within the address field
+    // this is a regex lookahead pattern that I found on stackoverflow to solve for this issue
+    // https://stackoverflow.com/questions/23582276/split-string-by-comma-but-ignore-commas-inside-quotes/23582323
+    const fields = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/) 
+    console.log(fields)
+
+    const address = fields[2].replace(/ /g,"%20").replace(/#/g, "").replace("/", "").replace(/"/g,"")
+    console.log(address)
+
+    // create the url to pass to our geocoding async function
+    const url = BASE_URL + dataset + '/' + address + '.json?access_token=' + ACCESS_TOKEN
+    console.log(url)
+
+    // if we don't call await in front of getGeocodedData then data is undefined
+    const data = await getGeocodedData(url)
+    console.log(data.features[0].geometry)
+}
+test()
+
 // use axios to call the Mapbox Geocoder API asynchronously and return the response.data
 async function getGeocodedData (url) {
     try {
@@ -67,7 +102,7 @@ async function main() {
         // this is a regex lookahead pattern that I found on stackoverflow to solve for this issue
         // https://stackoverflow.com/questions/23582276/split-string-by-comma-but-ignore-commas-inside-quotes/23582323
         const fields = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/) 
-        // console.log(fields)
+        console.log(fields)
         // we need to format the address for an API query - white space gets replaced by %20 characters
         // # and / sign breaks the call, replace with nothing
         const address = fields[2].replace(/ /g,"%20").replace(/#/g, "").replace("/", "").replace(/"/g,"")
@@ -83,7 +118,7 @@ async function main() {
 
         // if we don't call await in front of getGeocodedData then data is undefined
         const data = await getGeocodedData(url)
-        // console.log(data)
+        console.log(data)
 
         // add all the csv fields to the new geojson feature
         feature.geometry = data.features[0].geometry
