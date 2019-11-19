@@ -152,7 +152,7 @@ October 29th – Week 8. Topic survey & technical workshop (Web Maps / Public Da
   * [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
   * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 
-November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js) - [slides shown in class](https://drive.google.com/file/d/1l_b-t2gamdf2-W47p5NW9bycY1Kj6kIY/view?usp=sharing)
+November 5th – Week 9. Discussion of readings & overview of other resources (Leaflet.js / Mapbox GL / Mappa + p5.js / Turf.js) - [slides shown in class](https://drive.google.com/file/d/1l_b-t2gamdf2-W47p5NW9bycY1Kj6kIY/view?usp=sharingg)
 
 November 12th – Week 10. Guest Speaker [Alvin Chang](http://alvinschang.com/) & Project presentations
 
@@ -163,9 +163,8 @@ November 12th – Week 10. Guest Speaker [Alvin Chang](http://alvinschang.com/) 
 * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 * [Dataveillance and Countervailance,](https://github.com/veev/DataArtFall2019/blob/master/readings/Raley_Dataveillance_and_Countervailance.pdf) Rita Raley
-* [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
-November 19th – Week 11. Topic survey & overview of the landscape
+November 19th – Week 11. Topic survey & overview of the landscape - [slides shown in class](https://drive.google.com/file/d/1dMN3nX30VQn4h99A8jlMCJaiWbGjtn_J/view) and Guest Speaker [Shirley Wu](https://sxywu.com/)
 
 **Assignment**
 * **Data Critique:** Critique an aspect of data culture
@@ -179,8 +178,8 @@ November 26th – Week 12. Discussion of readings & Color + Data Visualization &
 
 **Assignment**
 * Two students prepare to present the readings for next week:
-  * [Dataveillance and Countervailance,]() Rita Raley
-  * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
+  * [Dataveillance and Countervailance,](https://github.com/veev/DataArtFall2019/blob/master/readings/Raley_Dataveillance_and_Countervailance.pdf) Rita Raley
+  * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 
 December 3rd – Week 13. Technical workshop (THREE.js / Unity)
 
