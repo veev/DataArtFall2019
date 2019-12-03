@@ -174,13 +174,13 @@ November 19th – Week 11. Topic survey & overview of the landscape - [slides sh
   * [Critical Questions for Big Data,](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf) danah boyd & Kate Crawford
   * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 
-November 26th – Week 12. Discussion of readings & Color + Data Visualization & D3
+November 26th – Week 12. Discussion of readings & D3 - [slides shown in class](https://drive.google.com/file/d/1yOr-xZlo29QUeK0DFMhLTmW_Xw4WcuWU/view?usp=sharing)
 
 **Assignment**
 * Two students prepare to present the readings for next week:
   * [Dataveillance and Countervailance,](https://github.com/veev/DataArtFall2019/blob/master/readings/Raley_Dataveillance_and_Countervailance.pdf) Rita Raley
   * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 
-December 3rd – Week 13. Technical workshop (THREE.js / Unity)
+December 3rd – Week 13. Technical workshop (Color + 3D Data Vis) - [slides shown in class](https://drive.google.com/open?id=1jl7i5TLcgbgQJpfizlkYNusgkg9qCdt3)
 
-December 10th - Week 14. Guest Speaker TBD & Project presentations
+December 10th - Week 14. Project presentations
